@@ -1,0 +1,5987 @@
+[
+    {
+        "id": 1,
+        "name": "Mark Benitez",
+        "position": "LCB",
+        "teamName": "Manchester City",
+        "attributes": {
+            "PAC": 83,
+            "DRI": 93,
+            "SHO": 56,
+            "DEF": 76,
+            "PAS": 72,
+            "PHY": 82
+        },
+        "average": 77.0
+    },
+    {
+        "id": 2,
+        "name": "Edmund Norton",
+        "position": "SF",
+        "teamName": "Wolverhampton Wanderers",
+        "attributes": {
+            "PAC": 61,
+            "DRI": 83,
+            "SHO": 67,
+            "DEF": 95,
+            "PAS": 71,
+            "PHY": 97
+        },
+        "average": 79.0
+    },
+    {
+        "id": 3,
+        "name": "Lucy Greenbaum",
+        "position": "RCB",
+        "teamName": "Arsenal",
+        "attributes": {
+            "PAC": 55,
+            "DRI": 79,
+            "SHO": 69,
+            "DEF": 66,
+            "PAS": 73,
+            "PHY": 71
+        },
+        "average": 68.8
+    },
+    {
+        "id": 4,
+        "name": "Gerardo Christensen",
+        "position": "SF",
+        "teamName": "Chelsea",
+        "attributes": {
+            "PAC": 99,
+            "DRI": 89,
+            "SHO": 99,
+            "DEF": 77,
+            "PAS": 61,
+            "PHY": 57
+        },
+        "average": 80.3
+    },
+    {
+        "id": 5,
+        "name": "Francisca Hardin",
+        "position": "RWM",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 65,
+            "DRI": 90,
+            "SHO": 92,
+            "DEF": 85,
+            "PAS": 57,
+            "PHY": 92
+        },
+        "average": 80.2
+    },
+    {
+        "id": 6,
+        "name": "Austin Ballesteros",
+        "position": "LWM",
+        "teamName": "Burnley",
+        "attributes": {
+            "PAC": 90,
+            "DRI": 58,
+            "SHO": 88,
+            "DEF": 66,
+            "PAS": 50,
+            "PHY": 96
+        },
+        "average": 74.7
+    },
+    {
+        "id": 7,
+        "name": "Ann Groth",
+        "position": "SF",
+        "teamName": "Nottingham Forest",
+        "attributes": {
+            "PAC": 61,
+            "DRI": 71,
+            "SHO": 71,
+            "DEF": 53,
+            "PAS": 79,
+            "PHY": 95
+        },
+        "average": 71.7
+    },
+    {
+        "id": 8,
+        "name": "Wayne Shafer",
+        "position": "RCB",
+        "teamName": "Newcastle United",
+        "attributes": {
+            "PAC": 95,
+            "DRI": 78,
+            "SHO": 77,
+            "DEF": 58,
+            "PAS": 96,
+            "PHY": 80
+        },
+        "average": 80.7
+    },
+    {
+        "id": 9,
+        "name": "Philip Berg",
+        "position": "RWB",
+        "teamName": "Sheffield United",
+        "attributes": {
+            "PAC": 87,
+            "DRI": 72,
+            "SHO": 60,
+            "DEF": 90,
+            "PAS": 63,
+            "PHY": 54
+        },
+        "average": 71.0
+    },
+    {
+        "id": 10,
+        "name": "Audrey Sparano",
+        "position": "LCM",
+        "teamName": "Sheffield United",
+        "attributes": {
+            "PAC": 50,
+            "DRI": 76,
+            "SHO": 80,
+            "DEF": 62,
+            "PAS": 85,
+            "PHY": 53
+        },
+        "average": 67.7
+    },
+    {
+        "id": 11,
+        "name": "Samantha Nealy",
+        "position": "RCM",
+        "teamName": "Brighton & Hove Albion",
+        "attributes": {
+            "PAC": 82,
+            "DRI": 98,
+            "SHO": 67,
+            "DEF": 55,
+            "PAS": 57,
+            "PHY": 71
+        },
+        "average": 71.7
+    },
+    {
+        "id": 12,
+        "name": "Jonathan Schmidt",
+        "position": "LF",
+        "teamName": "Fulham",
+        "attributes": {
+            "PAC": 76,
+            "DRI": 59,
+            "SHO": 53,
+            "DEF": 59,
+            "PAS": 78,
+            "PHY": 82
+        },
+        "average": 67.8
+    },
+    {
+        "id": 13,
+        "name": "Richard Valle",
+        "position": "RCM",
+        "teamName": "Brighton & Hove Albion",
+        "attributes": {
+            "PAC": 56,
+            "DRI": 79,
+            "SHO": 65,
+            "DEF": 63,
+            "PAS": 55,
+            "PHY": 77
+        },
+        "average": 65.8
+    },
+    {
+        "id": 14,
+        "name": "Cythia Rugg",
+        "position": "LCB",
+        "teamName": "Brentford",
+        "attributes": {
+            "PAC": 97,
+            "DRI": 71,
+            "SHO": 78,
+            "DEF": 83,
+            "PAS": 95,
+            "PHY": 66
+        },
+        "average": 81.7
+    },
+    {
+        "id": 15,
+        "name": "David Saunders",
+        "position": "LWM",
+        "teamName": "Aston Villa",
+        "attributes": {
+            "PAC": 88,
+            "DRI": 79,
+            "SHO": 95,
+            "DEF": 66,
+            "PAS": 89,
+            "PHY": 84
+        },
+        "average": 83.5
+    },
+    {
+        "id": 16,
+        "name": "Vincent Hackler",
+        "position": "CF",
+        "teamName": "Chelsea",
+        "attributes": {
+            "PAC": 91,
+            "DRI": 52,
+            "SHO": 98,
+            "DEF": 79,
+            "PAS": 68,
+            "PHY": 96
+        },
+        "average": 80.7
+    },
+    {
+        "id": 17,
+        "name": "Clifford Kelly",
+        "position": "RCB",
+        "teamName": "Newcastle United",
+        "attributes": {
+            "PAC": 58,
+            "DRI": 64,
+            "SHO": 82,
+            "DEF": 94,
+            "PAS": 58,
+            "PHY": 65
+        },
+        "average": 70.2
+    },
+    {
+        "id": 18,
+        "name": "Rocky Diefenbach",
+        "position": "CDM",
+        "teamName": "Chelsea",
+        "attributes": {
+            "PAC": 50,
+            "DRI": 68,
+            "SHO": 71,
+            "DEF": 74,
+            "PAS": 90,
+            "PHY": 80
+        },
+        "average": 72.2
+    },
+    {
+        "id": 19,
+        "name": "Keith Mcaulay",
+        "position": "GK",
+        "teamName": "Nottingham Forest",
+        "attributes": {
+            "PAC": 84,
+            "DRI": 77,
+            "SHO": 77,
+            "DEF": 86,
+            "PAS": 91,
+            "PHY": 64
+        },
+        "average": 79.8
+    },
+    {
+        "id": 20,
+        "name": "William Williams",
+        "position": "LWB",
+        "teamName": "Burnley",
+        "attributes": {
+            "PAC": 58,
+            "DRI": 96,
+            "SHO": 75,
+            "DEF": 62,
+            "PAS": 77,
+            "PHY": 79
+        },
+        "average": 74.5
+    },
+    {
+        "id": 21,
+        "name": "Thomas Hamilton",
+        "position": "ST",
+        "teamName": "Manchester United",
+        "attributes": {
+            "PAC": 58,
+            "DRI": 84,
+            "SHO": 94,
+            "DEF": 71,
+            "PAS": 51,
+            "PHY": 50
+        },
+        "average": 68.0
+    },
+    {
+        "id": 22,
+        "name": "Janice Mcdade",
+        "position": "RM",
+        "teamName": "Wolverhampton Wanderers",
+        "attributes": {
+            "PAC": 90,
+            "DRI": 99,
+            "SHO": 98,
+            "DEF": 68,
+            "PAS": 57,
+            "PHY": 65
+        },
+        "average": 79.5
+    },
+    {
+        "id": 23,
+        "name": "Allan Arno",
+        "position": "RWB",
+        "teamName": "Manchester City",
+        "attributes": {
+            "PAC": 71,
+            "DRI": 89,
+            "SHO": 56,
+            "DEF": 98,
+            "PAS": 92,
+            "PHY": 65
+        },
+        "average": 78.5
+    },
+    {
+        "id": 24,
+        "name": "Juliette Burroughs",
+        "position": "CDM",
+        "teamName": "Crystal Palace",
+        "attributes": {
+            "PAC": 52,
+            "DRI": 84,
+            "SHO": 76,
+            "DEF": 71,
+            "PAS": 67,
+            "PHY": 83
+        },
+        "average": 72.2
+    },
+    {
+        "id": 25,
+        "name": "Terri Grant",
+        "position": "RWB",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 61,
+            "DRI": 90,
+            "SHO": 64,
+            "DEF": 91,
+            "PAS": 50,
+            "PHY": 91
+        },
+        "average": 74.5
+    },
+    {
+        "id": 26,
+        "name": "Richard Bunnell",
+        "position": "RF",
+        "teamName": "Tottenham Hotspur",
+        "attributes": {
+            "PAC": 76,
+            "DRI": 83,
+            "SHO": 64,
+            "DEF": 91,
+            "PAS": 84,
+            "PHY": 88
+        },
+        "average": 81.0
+    },
+    {
+        "id": 27,
+        "name": "William Lewis",
+        "position": "RWM",
+        "teamName": "Burnley",
+        "attributes": {
+            "PAC": 68,
+            "DRI": 95,
+            "SHO": 71,
+            "DEF": 71,
+            "PAS": 75,
+            "PHY": 56
+        },
+        "average": 72.7
+    },
+    {
+        "id": 28,
+        "name": "Michael Fowler",
+        "position": "LCDM",
+        "teamName": "Manchester City",
+        "attributes": {
+            "PAC": 94,
+            "DRI": 76,
+            "SHO": 56,
+            "DEF": 69,
+            "PAS": 99,
+            "PHY": 85
+        },
+        "average": 79.8
+    },
+    {
+        "id": 29,
+        "name": "Grace Pearson",
+        "position": "LWB",
+        "teamName": "Brighton & Hove Albion",
+        "attributes": {
+            "PAC": 64,
+            "DRI": 82,
+            "SHO": 93,
+            "DEF": 75,
+            "PAS": 77,
+            "PHY": 63
+        },
+        "average": 75.7
+    },
+    {
+        "id": 30,
+        "name": "Patricia Jameson",
+        "position": "CAM",
+        "teamName": "Brentford",
+        "attributes": {
+            "PAC": 74,
+            "DRI": 54,
+            "SHO": 81,
+            "DEF": 85,
+            "PAS": 82,
+            "PHY": 59
+        },
+        "average": 72.5
+    },
+    {
+        "id": 31,
+        "name": "Gerald Barrett",
+        "position": "CF",
+        "teamName": "Manchester City",
+        "attributes": {
+            "PAC": 95,
+            "DRI": 53,
+            "SHO": 85,
+            "DEF": 51,
+            "PAS": 55,
+            "PHY": 58
+        },
+        "average": 66.2
+    },
+    {
+        "id": 32,
+        "name": "Mark Neely",
+        "position": "CDM",
+        "teamName": "Luton Town",
+        "attributes": {
+            "PAC": 92,
+            "DRI": 96,
+            "SHO": 92,
+            "DEF": 83,
+            "PAS": 62,
+            "PHY": 72
+        },
+        "average": 82.8
+    },
+    {
+        "id": 33,
+        "name": "Kenneth Gills",
+        "position": "LF",
+        "teamName": "Wolverhampton Wanderers",
+        "attributes": {
+            "PAC": 84,
+            "DRI": 70,
+            "SHO": 51,
+            "DEF": 70,
+            "PAS": 94,
+            "PHY": 74
+        },
+        "average": 73.8
+    },
+    {
+        "id": 34,
+        "name": "Theresa Holmes",
+        "position": "RCM",
+        "teamName": "Luton Town",
+        "attributes": {
+            "PAC": 59,
+            "DRI": 74,
+            "SHO": 99,
+            "DEF": 73,
+            "PAS": 56,
+            "PHY": 52
+        },
+        "average": 68.8
+    },
+    {
+        "id": 35,
+        "name": "Brandon Monfort",
+        "position": "LF",
+        "teamName": "Manchester City",
+        "attributes": {
+            "PAC": 96,
+            "DRI": 72,
+            "SHO": 83,
+            "DEF": 85,
+            "PAS": 60,
+            "PHY": 68
+        },
+        "average": 77.3
+    },
+    {
+        "id": 36,
+        "name": "Carl Jodha",
+        "position": "LF",
+        "teamName": "Brighton & Hove Albion",
+        "attributes": {
+            "PAC": 59,
+            "DRI": 58,
+            "SHO": 94,
+            "DEF": 64,
+            "PAS": 84,
+            "PHY": 70
+        },
+        "average": 71.5
+    },
+    {
+        "id": 37,
+        "name": "Linda Taylor",
+        "position": "RB",
+        "teamName": "West Ham United",
+        "attributes": {
+            "PAC": 81,
+            "DRI": 52,
+            "SHO": 71,
+            "DEF": 74,
+            "PAS": 79,
+            "PHY": 59
+        },
+        "average": 69.3
+    },
+    {
+        "id": 38,
+        "name": "Mary Hough",
+        "position": "RCM",
+        "teamName": "Aston Villa",
+        "attributes": {
+            "PAC": 63,
+            "DRI": 50,
+            "SHO": 51,
+            "DEF": 72,
+            "PAS": 57,
+            "PHY": 79
+        },
+        "average": 62.0
+    },
+    {
+        "id": 39,
+        "name": "Miguel Lowe",
+        "position": "RM",
+        "teamName": "Burnley",
+        "attributes": {
+            "PAC": 70,
+            "DRI": 68,
+            "SHO": 52,
+            "DEF": 71,
+            "PAS": 88,
+            "PHY": 63
+        },
+        "average": 68.7
+    },
+    {
+        "id": 40,
+        "name": "Jane Prince",
+        "position": "RWB",
+        "teamName": "Newcastle United",
+        "attributes": {
+            "PAC": 60,
+            "DRI": 79,
+            "SHO": 55,
+            "DEF": 87,
+            "PAS": 91,
+            "PHY": 67
+        },
+        "average": 73.2
+    },
+    {
+        "id": 41,
+        "name": "Raleigh Hunter",
+        "position": "CDM",
+        "teamName": "Everton",
+        "attributes": {
+            "PAC": 93,
+            "DRI": 82,
+            "SHO": 88,
+            "DEF": 80,
+            "PAS": 58,
+            "PHY": 92
+        },
+        "average": 82.2
+    },
+    {
+        "id": 42,
+        "name": "Ruth Garrett",
+        "position": "LCDM",
+        "teamName": "Arsenal",
+        "attributes": {
+            "PAC": 69,
+            "DRI": 57,
+            "SHO": 59,
+            "DEF": 85,
+            "PAS": 84,
+            "PHY": 97
+        },
+        "average": 75.2
+    },
+    {
+        "id": 43,
+        "name": "Richard Gaines",
+        "position": "GK",
+        "teamName": "Arsenal",
+        "attributes": {
+            "PAC": 97,
+            "DRI": 74,
+            "SHO": 56,
+            "DEF": 60,
+            "PAS": 54,
+            "PHY": 96
+        },
+        "average": 72.8
+    },
+    {
+        "id": 44,
+        "name": "Sue Hammel",
+        "position": "LCDM",
+        "teamName": "Chelsea",
+        "attributes": {
+            "PAC": 73,
+            "DRI": 62,
+            "SHO": 81,
+            "DEF": 85,
+            "PAS": 85,
+            "PHY": 61
+        },
+        "average": 74.5
+    },
+    {
+        "id": 45,
+        "name": "Margaret Fang",
+        "position": "RCDM",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 69,
+            "DRI": 94,
+            "SHO": 83,
+            "DEF": 80,
+            "PAS": 75,
+            "PHY": 63
+        },
+        "average": 77.3
+    },
+    {
+        "id": 46,
+        "name": "Tami Holmes",
+        "position": "LCM",
+        "teamName": "Fulham",
+        "attributes": {
+            "PAC": 77,
+            "DRI": 81,
+            "SHO": 83,
+            "DEF": 76,
+            "PAS": 77,
+            "PHY": 62
+        },
+        "average": 76.0
+    },
+    {
+        "id": 47,
+        "name": "James Sipper",
+        "position": "LWB",
+        "teamName": "Arsenal",
+        "attributes": {
+            "PAC": 56,
+            "DRI": 79,
+            "SHO": 53,
+            "DEF": 81,
+            "PAS": 57,
+            "PHY": 98
+        },
+        "average": 70.7
+    },
+    {
+        "id": 48,
+        "name": "Joseph Benjamin",
+        "position": "LCM",
+        "teamName": "Burnley",
+        "attributes": {
+            "PAC": 93,
+            "DRI": 96,
+            "SHO": 99,
+            "DEF": 60,
+            "PAS": 60,
+            "PHY": 87
+        },
+        "average": 82.5
+    },
+    {
+        "id": 49,
+        "name": "Margaret Davis",
+        "position": "CDM",
+        "teamName": "Burnley",
+        "attributes": {
+            "PAC": 85,
+            "DRI": 82,
+            "SHO": 96,
+            "DEF": 52,
+            "PAS": 73,
+            "PHY": 98
+        },
+        "average": 81.0
+    },
+    {
+        "id": 50,
+        "name": "Mary Cawley",
+        "position": "CM",
+        "teamName": "Brentford",
+        "attributes": {
+            "PAC": 78,
+            "DRI": 52,
+            "SHO": 91,
+            "DEF": 72,
+            "PAS": 93,
+            "PHY": 69
+        },
+        "average": 75.8
+    },
+    {
+        "id": 51,
+        "name": "Gilberto Burback",
+        "position": "LCDM",
+        "teamName": "Tottenham Hotspur",
+        "attributes": {
+            "PAC": 71,
+            "DRI": 50,
+            "SHO": 57,
+            "DEF": 59,
+            "PAS": 70,
+            "PHY": 50
+        },
+        "average": 59.5
+    },
+    {
+        "id": 52,
+        "name": "Edna Pennington",
+        "position": "LB",
+        "teamName": "Brighton & Hove Albion",
+        "attributes": {
+            "PAC": 60,
+            "DRI": 78,
+            "SHO": 62,
+            "DEF": 94,
+            "PAS": 51,
+            "PHY": 58
+        },
+        "average": 67.2
+    },
+    {
+        "id": 53,
+        "name": "Paul Rhoades",
+        "position": "RB",
+        "teamName": "Manchester City",
+        "attributes": {
+            "PAC": 65,
+            "DRI": 68,
+            "SHO": 88,
+            "DEF": 97,
+            "PAS": 80,
+            "PHY": 60
+        },
+        "average": 76.3
+    },
+    {
+        "id": 54,
+        "name": "Frank Ratterree",
+        "position": "RWB",
+        "teamName": "Manchester City",
+        "attributes": {
+            "PAC": 64,
+            "DRI": 92,
+            "SHO": 92,
+            "DEF": 80,
+            "PAS": 80,
+            "PHY": 98
+        },
+        "average": 84.3
+    },
+    {
+        "id": 55,
+        "name": "Richard Earley",
+        "position": "LWB",
+        "teamName": "Newcastle United",
+        "attributes": {
+            "PAC": 81,
+            "DRI": 75,
+            "SHO": 71,
+            "DEF": 99,
+            "PAS": 85,
+            "PHY": 90
+        },
+        "average": 83.5
+    },
+    {
+        "id": 56,
+        "name": "Emmett Wince",
+        "position": "LWB",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 99,
+            "DRI": 94,
+            "SHO": 71,
+            "DEF": 76,
+            "PAS": 79,
+            "PHY": 93
+        },
+        "average": 85.3
+    },
+    {
+        "id": 57,
+        "name": "Ernest Vashaw",
+        "position": "LWM",
+        "teamName": "Brentford",
+        "attributes": {
+            "PAC": 86,
+            "DRI": 61,
+            "SHO": 55,
+            "DEF": 51,
+            "PAS": 99,
+            "PHY": 75
+        },
+        "average": 71.2
+    },
+    {
+        "id": 58,
+        "name": "Emmett Sublett",
+        "position": "RCM",
+        "teamName": "Brentford",
+        "attributes": {
+            "PAC": 71,
+            "DRI": 63,
+            "SHO": 64,
+            "DEF": 97,
+            "PAS": 77,
+            "PHY": 52
+        },
+        "average": 70.7
+    },
+    {
+        "id": 59,
+        "name": "Richard Winkfield",
+        "position": "LCM",
+        "teamName": "Wolverhampton Wanderers",
+        "attributes": {
+            "PAC": 62,
+            "DRI": 67,
+            "SHO": 58,
+            "DEF": 93,
+            "PAS": 83,
+            "PHY": 87
+        },
+        "average": 75.0
+    },
+    {
+        "id": 60,
+        "name": "Lacy Moxley",
+        "position": "GK",
+        "teamName": "Tottenham Hotspur",
+        "attributes": {
+            "PAC": 56,
+            "DRI": 74,
+            "SHO": 82,
+            "DEF": 55,
+            "PAS": 50,
+            "PHY": 71
+        },
+        "average": 64.7
+    },
+    {
+        "id": 61,
+        "name": "Christine Kintzer",
+        "position": "LWM",
+        "teamName": "Chelsea",
+        "attributes": {
+            "PAC": 52,
+            "DRI": 79,
+            "SHO": 82,
+            "DEF": 81,
+            "PAS": 75,
+            "PHY": 97
+        },
+        "average": 77.7
+    },
+    {
+        "id": 62,
+        "name": "Roger Kilbane",
+        "position": "LWM",
+        "teamName": "Manchester City",
+        "attributes": {
+            "PAC": 83,
+            "DRI": 92,
+            "SHO": 86,
+            "DEF": 94,
+            "PAS": 58,
+            "PHY": 99
+        },
+        "average": 85.3
+    },
+    {
+        "id": 63,
+        "name": "Jane Ramirez",
+        "position": "SF",
+        "teamName": "Arsenal",
+        "attributes": {
+            "PAC": 94,
+            "DRI": 89,
+            "SHO": 99,
+            "DEF": 63,
+            "PAS": 52,
+            "PHY": 79
+        },
+        "average": 79.3
+    },
+    {
+        "id": 64,
+        "name": "Hilda Dorsey",
+        "position": "LWM",
+        "teamName": "Luton Town",
+        "attributes": {
+            "PAC": 69,
+            "DRI": 80,
+            "SHO": 78,
+            "DEF": 86,
+            "PAS": 76,
+            "PHY": 71
+        },
+        "average": 76.7
+    },
+    {
+        "id": 65,
+        "name": "Wilfred Chavez",
+        "position": "RM",
+        "teamName": "Sheffield United",
+        "attributes": {
+            "PAC": 99,
+            "DRI": 87,
+            "SHO": 50,
+            "DEF": 73,
+            "PAS": 91,
+            "PHY": 91
+        },
+        "average": 81.8
+    },
+    {
+        "id": 66,
+        "name": "Richard Morales",
+        "position": "RCM",
+        "teamName": "Newcastle United",
+        "attributes": {
+            "PAC": 95,
+            "DRI": 71,
+            "SHO": 54,
+            "DEF": 71,
+            "PAS": 91,
+            "PHY": 86
+        },
+        "average": 78.0
+    },
+    {
+        "id": 67,
+        "name": "James Davison",
+        "position": "CM",
+        "teamName": "Sheffield United",
+        "attributes": {
+            "PAC": 68,
+            "DRI": 55,
+            "SHO": 65,
+            "DEF": 64,
+            "PAS": 81,
+            "PHY": 81
+        },
+        "average": 69.0
+    },
+    {
+        "id": 68,
+        "name": "Renee Ford",
+        "position": "RF",
+        "teamName": "Wolverhampton Wanderers",
+        "attributes": {
+            "PAC": 58,
+            "DRI": 54,
+            "SHO": 57,
+            "DEF": 66,
+            "PAS": 56,
+            "PHY": 60
+        },
+        "average": 58.5
+    },
+    {
+        "id": 69,
+        "name": "Joyce Woods",
+        "position": "LB",
+        "teamName": "Sheffield United",
+        "attributes": {
+            "PAC": 73,
+            "DRI": 87,
+            "SHO": 59,
+            "DEF": 55,
+            "PAS": 66,
+            "PHY": 54
+        },
+        "average": 65.7
+    },
+    {
+        "id": 70,
+        "name": "William Taylor",
+        "position": "CDM",
+        "teamName": "Luton Town",
+        "attributes": {
+            "PAC": 90,
+            "DRI": 50,
+            "SHO": 72,
+            "DEF": 63,
+            "PAS": 64,
+            "PHY": 88
+        },
+        "average": 71.2
+    },
+    {
+        "id": 71,
+        "name": "Lewis Ferrusi",
+        "position": "LB",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 71,
+            "DRI": 98,
+            "SHO": 59,
+            "DEF": 94,
+            "PAS": 71,
+            "PHY": 84
+        },
+        "average": 79.5
+    },
+    {
+        "id": 72,
+        "name": "William Spann",
+        "position": "RB",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 84,
+            "DRI": 76,
+            "SHO": 87,
+            "DEF": 61,
+            "PAS": 94,
+            "PHY": 79
+        },
+        "average": 80.2
+    },
+    {
+        "id": 73,
+        "name": "Sabrina Vazquez",
+        "position": "LCM",
+        "teamName": "Manchester City",
+        "attributes": {
+            "PAC": 57,
+            "DRI": 85,
+            "SHO": 52,
+            "DEF": 57,
+            "PAS": 56,
+            "PHY": 82
+        },
+        "average": 64.8
+    },
+    {
+        "id": 74,
+        "name": "Christopher Lewis",
+        "position": "RM",
+        "teamName": "Manchester City",
+        "attributes": {
+            "PAC": 57,
+            "DRI": 54,
+            "SHO": 53,
+            "DEF": 67,
+            "PAS": 99,
+            "PHY": 70
+        },
+        "average": 66.7
+    },
+    {
+        "id": 75,
+        "name": "Juana Blum",
+        "position": "CB",
+        "teamName": "Manchester City",
+        "attributes": {
+            "PAC": 59,
+            "DRI": 73,
+            "SHO": 64,
+            "DEF": 87,
+            "PAS": 84,
+            "PHY": 66
+        },
+        "average": 72.2
+    },
+    {
+        "id": 76,
+        "name": "Pamela Lyons",
+        "position": "GK",
+        "teamName": "Bournemouth",
+        "attributes": {
+            "PAC": 89,
+            "DRI": 80,
+            "SHO": 55,
+            "DEF": 84,
+            "PAS": 86,
+            "PHY": 73
+        },
+        "average": 77.8
+    },
+    {
+        "id": 77,
+        "name": "Toni Young",
+        "position": "RCM",
+        "teamName": "Chelsea",
+        "attributes": {
+            "PAC": 58,
+            "DRI": 98,
+            "SHO": 75,
+            "DEF": 81,
+            "PAS": 87,
+            "PHY": 55
+        },
+        "average": 75.7
+    },
+    {
+        "id": 78,
+        "name": "Jeffery Morrison",
+        "position": "RM",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 95,
+            "DRI": 95,
+            "SHO": 73,
+            "DEF": 60,
+            "PAS": 96,
+            "PHY": 52
+        },
+        "average": 78.5
+    },
+    {
+        "id": 79,
+        "name": "Mike Casey",
+        "position": "RCDM",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 74,
+            "DRI": 74,
+            "SHO": 74,
+            "DEF": 91,
+            "PAS": 99,
+            "PHY": 54
+        },
+        "average": 77.7
+    },
+    {
+        "id": 80,
+        "name": "Michael Fadden",
+        "position": "LWM",
+        "teamName": "Arsenal",
+        "attributes": {
+            "PAC": 75,
+            "DRI": 97,
+            "SHO": 52,
+            "DEF": 59,
+            "PAS": 81,
+            "PHY": 89
+        },
+        "average": 75.5
+    },
+    {
+        "id": 81,
+        "name": "Naomi Drayton",
+        "position": "LCDM",
+        "teamName": "Nottingham Forest",
+        "attributes": {
+            "PAC": 62,
+            "DRI": 69,
+            "SHO": 50,
+            "DEF": 99,
+            "PAS": 56,
+            "PHY": 58
+        },
+        "average": 65.7
+    },
+    {
+        "id": 82,
+        "name": "Elaine Mariscal",
+        "position": "CF",
+        "teamName": "Arsenal",
+        "attributes": {
+            "PAC": 68,
+            "DRI": 83,
+            "SHO": 58,
+            "DEF": 67,
+            "PAS": 82,
+            "PHY": 78
+        },
+        "average": 72.7
+    },
+    {
+        "id": 83,
+        "name": "Chad Mailman",
+        "position": "RM",
+        "teamName": "Brentford",
+        "attributes": {
+            "PAC": 61,
+            "DRI": 98,
+            "SHO": 95,
+            "DEF": 52,
+            "PAS": 67,
+            "PHY": 64
+        },
+        "average": 72.8
+    },
+    {
+        "id": 84,
+        "name": "William Overton",
+        "position": "ST",
+        "teamName": "Sheffield United",
+        "attributes": {
+            "PAC": 65,
+            "DRI": 83,
+            "SHO": 57,
+            "DEF": 76,
+            "PAS": 67,
+            "PHY": 76
+        },
+        "average": 70.7
+    },
+    {
+        "id": 85,
+        "name": "Lindsay Russell",
+        "position": "RCB",
+        "teamName": "Chelsea",
+        "attributes": {
+            "PAC": 89,
+            "DRI": 62,
+            "SHO": 51,
+            "DEF": 92,
+            "PAS": 60,
+            "PHY": 81
+        },
+        "average": 72.5
+    },
+    {
+        "id": 86,
+        "name": "Patrice Conroy",
+        "position": "RWM",
+        "teamName": "Newcastle United",
+        "attributes": {
+            "PAC": 64,
+            "DRI": 97,
+            "SHO": 75,
+            "DEF": 59,
+            "PAS": 98,
+            "PHY": 82
+        },
+        "average": 79.2
+    },
+    {
+        "id": 87,
+        "name": "Ralph Dougherty",
+        "position": "GK",
+        "teamName": "Arsenal",
+        "attributes": {
+            "PAC": 65,
+            "DRI": 89,
+            "SHO": 86,
+            "DEF": 51,
+            "PAS": 84,
+            "PHY": 61
+        },
+        "average": 72.7
+    },
+    {
+        "id": 88,
+        "name": "Inez Bryant",
+        "position": "ST",
+        "teamName": "Arsenal",
+        "attributes": {
+            "PAC": 81,
+            "DRI": 70,
+            "SHO": 72,
+            "DEF": 65,
+            "PAS": 89,
+            "PHY": 97
+        },
+        "average": 79.0
+    },
+    {
+        "id": 89,
+        "name": "Ida Poirrier",
+        "position": "SF",
+        "teamName": "West Ham United",
+        "attributes": {
+            "PAC": 61,
+            "DRI": 74,
+            "SHO": 66,
+            "DEF": 86,
+            "PAS": 98,
+            "PHY": 96
+        },
+        "average": 80.2
+    },
+    {
+        "id": 90,
+        "name": "Kathleen Garcia",
+        "position": "RB",
+        "teamName": "Crystal Palace",
+        "attributes": {
+            "PAC": 79,
+            "DRI": 71,
+            "SHO": 50,
+            "DEF": 92,
+            "PAS": 77,
+            "PHY": 68
+        },
+        "average": 72.8
+    },
+    {
+        "id": 91,
+        "name": "Portia Phillips",
+        "position": "RWB",
+        "teamName": "Wolverhampton Wanderers",
+        "attributes": {
+            "PAC": 67,
+            "DRI": 57,
+            "SHO": 90,
+            "DEF": 86,
+            "PAS": 95,
+            "PHY": 67
+        },
+        "average": 77.0
+    },
+    {
+        "id": 92,
+        "name": "Hisako Walker",
+        "position": "RCB",
+        "teamName": "Aston Villa",
+        "attributes": {
+            "PAC": 71,
+            "DRI": 92,
+            "SHO": 71,
+            "DEF": 78,
+            "PAS": 70,
+            "PHY": 92
+        },
+        "average": 79.0
+    },
+    {
+        "id": 93,
+        "name": "Marcia Thomas",
+        "position": "RF",
+        "teamName": "Arsenal",
+        "attributes": {
+            "PAC": 82,
+            "DRI": 56,
+            "SHO": 82,
+            "DEF": 69,
+            "PAS": 65,
+            "PHY": 61
+        },
+        "average": 69.2
+    },
+    {
+        "id": 94,
+        "name": "Rodney Brazier",
+        "position": "LF",
+        "teamName": "Sheffield United",
+        "attributes": {
+            "PAC": 57,
+            "DRI": 98,
+            "SHO": 75,
+            "DEF": 61,
+            "PAS": 67,
+            "PHY": 69
+        },
+        "average": 71.2
+    },
+    {
+        "id": 95,
+        "name": "Cynthia Millsap",
+        "position": "GK",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 89,
+            "DRI": 97,
+            "SHO": 73,
+            "DEF": 85,
+            "PAS": 96,
+            "PHY": 94
+        },
+        "average": 89.0
+    },
+    {
+        "id": 96,
+        "name": "Steven Daquilante",
+        "position": "RCDM",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 69,
+            "DRI": 62,
+            "SHO": 67,
+            "DEF": 97,
+            "PAS": 94,
+            "PHY": 98
+        },
+        "average": 81.2
+    },
+    {
+        "id": 97,
+        "name": "Daisy Smith",
+        "position": "LCDM",
+        "teamName": "Luton Town",
+        "attributes": {
+            "PAC": 54,
+            "DRI": 65,
+            "SHO": 88,
+            "DEF": 89,
+            "PAS": 85,
+            "PHY": 65
+        },
+        "average": 74.3
+    },
+    {
+        "id": 98,
+        "name": "Virginia Harada",
+        "position": "SF",
+        "teamName": "Wolverhampton Wanderers",
+        "attributes": {
+            "PAC": 74,
+            "DRI": 82,
+            "SHO": 69,
+            "DEF": 61,
+            "PAS": 84,
+            "PHY": 94
+        },
+        "average": 77.3
+    },
+    {
+        "id": 99,
+        "name": "Alyssa Anderson",
+        "position": "LWM",
+        "teamName": "Brentford",
+        "attributes": {
+            "PAC": 67,
+            "DRI": 79,
+            "SHO": 53,
+            "DEF": 60,
+            "PAS": 86,
+            "PHY": 95
+        },
+        "average": 73.3
+    },
+    {
+        "id": 100,
+        "name": "Paul James",
+        "position": "LCM",
+        "teamName": "Fulham",
+        "attributes": {
+            "PAC": 70,
+            "DRI": 63,
+            "SHO": 59,
+            "DEF": 90,
+            "PAS": 57,
+            "PHY": 76
+        },
+        "average": 69.2
+    },
+    {
+        "id": 101,
+        "name": "William Denton",
+        "position": "SF",
+        "teamName": "Burnley",
+        "attributes": {
+            "PAC": 83,
+            "DRI": 62,
+            "SHO": 73,
+            "DEF": 93,
+            "PAS": 82,
+            "PHY": 86
+        },
+        "average": 79.8
+    },
+    {
+        "id": 102,
+        "name": "Darlene Ortiz",
+        "position": "LWB",
+        "teamName": "Wolverhampton Wanderers",
+        "attributes": {
+            "PAC": 57,
+            "DRI": 76,
+            "SHO": 59,
+            "DEF": 99,
+            "PAS": 70,
+            "PHY": 66
+        },
+        "average": 71.2
+    },
+    {
+        "id": 103,
+        "name": "Barbara Pitcherello",
+        "position": "SF",
+        "teamName": "Bournemouth",
+        "attributes": {
+            "PAC": 80,
+            "DRI": 93,
+            "SHO": 79,
+            "DEF": 81,
+            "PAS": 57,
+            "PHY": 71
+        },
+        "average": 76.8
+    },
+    {
+        "id": 104,
+        "name": "Robert Riebau",
+        "position": "LCB",
+        "teamName": "Luton Town",
+        "attributes": {
+            "PAC": 81,
+            "DRI": 50,
+            "SHO": 86,
+            "DEF": 56,
+            "PAS": 70,
+            "PHY": 50
+        },
+        "average": 65.5
+    },
+    {
+        "id": 105,
+        "name": "James Shaw",
+        "position": "RCDM",
+        "teamName": "Brighton & Hove Albion",
+        "attributes": {
+            "PAC": 88,
+            "DRI": 97,
+            "SHO": 98,
+            "DEF": 88,
+            "PAS": 90,
+            "PHY": 98
+        },
+        "average": 93.2
+    },
+    {
+        "id": 106,
+        "name": "Samuel Robinson",
+        "position": "RCM",
+        "teamName": "Fulham",
+        "attributes": {
+            "PAC": 77,
+            "DRI": 79,
+            "SHO": 86,
+            "DEF": 98,
+            "PAS": 55,
+            "PHY": 73
+        },
+        "average": 78.0
+    },
+    {
+        "id": 107,
+        "name": "Jacqueline Alvarez",
+        "position": "RB",
+        "teamName": "Everton",
+        "attributes": {
+            "PAC": 74,
+            "DRI": 62,
+            "SHO": 63,
+            "DEF": 53,
+            "PAS": 58,
+            "PHY": 92
+        },
+        "average": 67.0
+    },
+    {
+        "id": 108,
+        "name": "Charles Ayala",
+        "position": "LWM",
+        "teamName": "Wolverhampton Wanderers",
+        "attributes": {
+            "PAC": 89,
+            "DRI": 86,
+            "SHO": 61,
+            "DEF": 69,
+            "PAS": 78,
+            "PHY": 52
+        },
+        "average": 72.5
+    },
+    {
+        "id": 109,
+        "name": "Keshia Peck",
+        "position": "LCDM",
+        "teamName": "Luton Town",
+        "attributes": {
+            "PAC": 91,
+            "DRI": 75,
+            "SHO": 69,
+            "DEF": 58,
+            "PAS": 61,
+            "PHY": 99
+        },
+        "average": 75.5
+    },
+    {
+        "id": 110,
+        "name": "Sharita Day",
+        "position": "LWB",
+        "teamName": "Luton Town",
+        "attributes": {
+            "PAC": 57,
+            "DRI": 87,
+            "SHO": 86,
+            "DEF": 60,
+            "PAS": 70,
+            "PHY": 97
+        },
+        "average": 76.2
+    },
+    {
+        "id": 111,
+        "name": "John Maurer",
+        "position": "SF",
+        "teamName": "Brentford",
+        "attributes": {
+            "PAC": 54,
+            "DRI": 81,
+            "SHO": 80,
+            "DEF": 82,
+            "PAS": 99,
+            "PHY": 71
+        },
+        "average": 77.8
+    },
+    {
+        "id": 112,
+        "name": "Ralph Zamora",
+        "position": "RCDM",
+        "teamName": "Newcastle United",
+        "attributes": {
+            "PAC": 95,
+            "DRI": 72,
+            "SHO": 77,
+            "DEF": 58,
+            "PAS": 55,
+            "PHY": 88
+        },
+        "average": 74.2
+    },
+    {
+        "id": 113,
+        "name": "Dominic Williams",
+        "position": "CDM",
+        "teamName": "Aston Villa",
+        "attributes": {
+            "PAC": 57,
+            "DRI": 63,
+            "SHO": 54,
+            "DEF": 68,
+            "PAS": 51,
+            "PHY": 98
+        },
+        "average": 65.2
+    },
+    {
+        "id": 114,
+        "name": "Joseph Cordova",
+        "position": "RWB",
+        "teamName": "Sheffield United",
+        "attributes": {
+            "PAC": 98,
+            "DRI": 53,
+            "SHO": 81,
+            "DEF": 90,
+            "PAS": 62,
+            "PHY": 64
+        },
+        "average": 74.7
+    },
+    {
+        "id": 115,
+        "name": "Sandra Parker",
+        "position": "LB",
+        "teamName": "Arsenal",
+        "attributes": {
+            "PAC": 76,
+            "DRI": 50,
+            "SHO": 83,
+            "DEF": 90,
+            "PAS": 61,
+            "PHY": 62
+        },
+        "average": 70.3
+    },
+    {
+        "id": 116,
+        "name": "Fred Ramirez",
+        "position": "CB",
+        "teamName": "West Ham United",
+        "attributes": {
+            "PAC": 71,
+            "DRI": 96,
+            "SHO": 91,
+            "DEF": 92,
+            "PAS": 92,
+            "PHY": 76
+        },
+        "average": 86.3
+    },
+    {
+        "id": 117,
+        "name": "Janet Makhija",
+        "position": "LCDM",
+        "teamName": "Chelsea",
+        "attributes": {
+            "PAC": 92,
+            "DRI": 82,
+            "SHO": 77,
+            "DEF": 58,
+            "PAS": 72,
+            "PHY": 87
+        },
+        "average": 78.0
+    },
+    {
+        "id": 118,
+        "name": "Richard Riley",
+        "position": "CF",
+        "teamName": "West Ham United",
+        "attributes": {
+            "PAC": 86,
+            "DRI": 68,
+            "SHO": 90,
+            "DEF": 89,
+            "PAS": 54,
+            "PHY": 78
+        },
+        "average": 77.5
+    },
+    {
+        "id": 119,
+        "name": "Jeffery Aguilar",
+        "position": "LCDM",
+        "teamName": "Wolverhampton Wanderers",
+        "attributes": {
+            "PAC": 75,
+            "DRI": 57,
+            "SHO": 69,
+            "DEF": 66,
+            "PAS": 80,
+            "PHY": 90
+        },
+        "average": 72.8
+    },
+    {
+        "id": 120,
+        "name": "Lori Perry",
+        "position": "CAM",
+        "teamName": "Sheffield United",
+        "attributes": {
+            "PAC": 66,
+            "DRI": 99,
+            "SHO": 51,
+            "DEF": 73,
+            "PAS": 52,
+            "PHY": 91
+        },
+        "average": 72.0
+    },
+    {
+        "id": 121,
+        "name": "Leonard Meyer",
+        "position": "LWM",
+        "teamName": "Arsenal",
+        "attributes": {
+            "PAC": 98,
+            "DRI": 94,
+            "SHO": 94,
+            "DEF": 59,
+            "PAS": 79,
+            "PHY": 51
+        },
+        "average": 79.2
+    },
+    {
+        "id": 122,
+        "name": "Stacey Lyons",
+        "position": "GK",
+        "teamName": "West Ham United",
+        "attributes": {
+            "PAC": 65,
+            "DRI": 71,
+            "SHO": 81,
+            "DEF": 82,
+            "PAS": 63,
+            "PHY": 55
+        },
+        "average": 69.5
+    },
+    {
+        "id": 123,
+        "name": "Rosemary Allred",
+        "position": "ST",
+        "teamName": "Luton Town",
+        "attributes": {
+            "PAC": 72,
+            "DRI": 75,
+            "SHO": 54,
+            "DEF": 83,
+            "PAS": 62,
+            "PHY": 94
+        },
+        "average": 73.3
+    },
+    {
+        "id": 124,
+        "name": "Kimberly Craven",
+        "position": "LWB",
+        "teamName": "Chelsea",
+        "attributes": {
+            "PAC": 78,
+            "DRI": 84,
+            "SHO": 76,
+            "DEF": 83,
+            "PAS": 96,
+            "PHY": 78
+        },
+        "average": 82.5
+    },
+    {
+        "id": 125,
+        "name": "Darline Wang",
+        "position": "LM",
+        "teamName": "Burnley",
+        "attributes": {
+            "PAC": 71,
+            "DRI": 99,
+            "SHO": 68,
+            "DEF": 69,
+            "PAS": 94,
+            "PHY": 79
+        },
+        "average": 80.0
+    },
+    {
+        "id": 126,
+        "name": "Eva Levy",
+        "position": "ST",
+        "teamName": "Fulham",
+        "attributes": {
+            "PAC": 62,
+            "DRI": 60,
+            "SHO": 92,
+            "DEF": 95,
+            "PAS": 96,
+            "PHY": 61
+        },
+        "average": 77.7
+    },
+    {
+        "id": 127,
+        "name": "Yvonne Newcomb",
+        "position": "GK",
+        "teamName": "Burnley",
+        "attributes": {
+            "PAC": 54,
+            "DRI": 64,
+            "SHO": 91,
+            "DEF": 67,
+            "PAS": 52,
+            "PHY": 63
+        },
+        "average": 65.2
+    },
+    {
+        "id": 128,
+        "name": "Arthur Bez",
+        "position": "LB",
+        "teamName": "Arsenal",
+        "attributes": {
+            "PAC": 92,
+            "DRI": 63,
+            "SHO": 96,
+            "DEF": 89,
+            "PAS": 86,
+            "PHY": 90
+        },
+        "average": 86.0
+    },
+    {
+        "id": 129,
+        "name": "Donna Cowboy",
+        "position": "RF",
+        "teamName": "Fulham",
+        "attributes": {
+            "PAC": 54,
+            "DRI": 51,
+            "SHO": 57,
+            "DEF": 73,
+            "PAS": 96,
+            "PHY": 57
+        },
+        "average": 64.7
+    },
+    {
+        "id": 130,
+        "name": "James Carmody",
+        "position": "LCB",
+        "teamName": "Tottenham Hotspur",
+        "attributes": {
+            "PAC": 76,
+            "DRI": 80,
+            "SHO": 90,
+            "DEF": 91,
+            "PAS": 83,
+            "PHY": 70
+        },
+        "average": 81.7
+    },
+    {
+        "id": 131,
+        "name": "Margaret Harper",
+        "position": "LB",
+        "teamName": "Everton",
+        "attributes": {
+            "PAC": 97,
+            "DRI": 97,
+            "SHO": 70,
+            "DEF": 58,
+            "PAS": 50,
+            "PHY": 86
+        },
+        "average": 76.3
+    },
+    {
+        "id": 132,
+        "name": "Ethelene Reichel",
+        "position": "LWM",
+        "teamName": "Sheffield United",
+        "attributes": {
+            "PAC": 93,
+            "DRI": 70,
+            "SHO": 69,
+            "DEF": 94,
+            "PAS": 75,
+            "PHY": 74
+        },
+        "average": 79.2
+    },
+    {
+        "id": 133,
+        "name": "Steven Davis",
+        "position": "RF",
+        "teamName": "Fulham",
+        "attributes": {
+            "PAC": 68,
+            "DRI": 87,
+            "SHO": 88,
+            "DEF": 55,
+            "PAS": 65,
+            "PHY": 65
+        },
+        "average": 71.3
+    },
+    {
+        "id": 134,
+        "name": "Gary Kim",
+        "position": "LCDM",
+        "teamName": "Arsenal",
+        "attributes": {
+            "PAC": 62,
+            "DRI": 62,
+            "SHO": 84,
+            "DEF": 90,
+            "PAS": 89,
+            "PHY": 88
+        },
+        "average": 79.2
+    },
+    {
+        "id": 135,
+        "name": "Robyn Yoho",
+        "position": "LWM",
+        "teamName": "Manchester United",
+        "attributes": {
+            "PAC": 56,
+            "DRI": 62,
+            "SHO": 53,
+            "DEF": 60,
+            "PAS": 88,
+            "PHY": 85
+        },
+        "average": 67.3
+    },
+    {
+        "id": 136,
+        "name": "Sanjuana Moore",
+        "position": "RCB",
+        "teamName": "Arsenal",
+        "attributes": {
+            "PAC": 62,
+            "DRI": 63,
+            "SHO": 79,
+            "DEF": 70,
+            "PAS": 58,
+            "PHY": 59
+        },
+        "average": 65.2
+    },
+    {
+        "id": 137,
+        "name": "Lisa Williams",
+        "position": "CAM",
+        "teamName": "Fulham",
+        "attributes": {
+            "PAC": 58,
+            "DRI": 51,
+            "SHO": 90,
+            "DEF": 86,
+            "PAS": 56,
+            "PHY": 60
+        },
+        "average": 66.8
+    },
+    {
+        "id": 138,
+        "name": "William Chadbourne",
+        "position": "SF",
+        "teamName": "Fulham",
+        "attributes": {
+            "PAC": 85,
+            "DRI": 92,
+            "SHO": 86,
+            "DEF": 99,
+            "PAS": 99,
+            "PHY": 54
+        },
+        "average": 85.8
+    },
+    {
+        "id": 139,
+        "name": "Mary Maloney",
+        "position": "LCB",
+        "teamName": "Sheffield United",
+        "attributes": {
+            "PAC": 56,
+            "DRI": 76,
+            "SHO": 73,
+            "DEF": 92,
+            "PAS": 82,
+            "PHY": 63
+        },
+        "average": 73.7
+    },
+    {
+        "id": 140,
+        "name": "Elaine Bias",
+        "position": "LCM",
+        "teamName": "Brighton & Hove Albion",
+        "attributes": {
+            "PAC": 96,
+            "DRI": 81,
+            "SHO": 99,
+            "DEF": 63,
+            "PAS": 88,
+            "PHY": 65
+        },
+        "average": 82.0
+    },
+    {
+        "id": 141,
+        "name": "Brenda Penner",
+        "position": "LB",
+        "teamName": "Wolverhampton Wanderers",
+        "attributes": {
+            "PAC": 93,
+            "DRI": 71,
+            "SHO": 89,
+            "DEF": 95,
+            "PAS": 69,
+            "PHY": 72
+        },
+        "average": 81.5
+    },
+    {
+        "id": 142,
+        "name": "Maren Valentine",
+        "position": "ST",
+        "teamName": "West Ham United",
+        "attributes": {
+            "PAC": 63,
+            "DRI": 76,
+            "SHO": 98,
+            "DEF": 82,
+            "PAS": 74,
+            "PHY": 63
+        },
+        "average": 76.0
+    },
+    {
+        "id": 143,
+        "name": "Ana Alley",
+        "position": "RF",
+        "teamName": "Brentford",
+        "attributes": {
+            "PAC": 83,
+            "DRI": 99,
+            "SHO": 64,
+            "DEF": 66,
+            "PAS": 63,
+            "PHY": 79
+        },
+        "average": 75.7
+    },
+    {
+        "id": 144,
+        "name": "Sean Murphy",
+        "position": "LF",
+        "teamName": "Wolverhampton Wanderers",
+        "attributes": {
+            "PAC": 59,
+            "DRI": 94,
+            "SHO": 81,
+            "DEF": 76,
+            "PAS": 67,
+            "PHY": 53
+        },
+        "average": 71.7
+    },
+    {
+        "id": 145,
+        "name": "Megan Walczak",
+        "position": "GK",
+        "teamName": "Newcastle United",
+        "attributes": {
+            "PAC": 64,
+            "DRI": 50,
+            "SHO": 99,
+            "DEF": 92,
+            "PAS": 61,
+            "PHY": 74
+        },
+        "average": 73.3
+    },
+    {
+        "id": 146,
+        "name": "Mary Mendez",
+        "position": "SF",
+        "teamName": "Brentford",
+        "attributes": {
+            "PAC": 99,
+            "DRI": 68,
+            "SHO": 69,
+            "DEF": 98,
+            "PAS": 80,
+            "PHY": 82
+        },
+        "average": 82.7
+    },
+    {
+        "id": 147,
+        "name": "Donna Dodson",
+        "position": "RF",
+        "teamName": "Manchester United",
+        "attributes": {
+            "PAC": 73,
+            "DRI": 79,
+            "SHO": 62,
+            "DEF": 79,
+            "PAS": 88,
+            "PHY": 59
+        },
+        "average": 73.3
+    },
+    {
+        "id": 148,
+        "name": "Joseph Welch",
+        "position": "RCDM",
+        "teamName": "Brentford",
+        "attributes": {
+            "PAC": 96,
+            "DRI": 91,
+            "SHO": 85,
+            "DEF": 64,
+            "PAS": 76,
+            "PHY": 55
+        },
+        "average": 77.8
+    },
+    {
+        "id": 149,
+        "name": "Steven Perkins",
+        "position": "CB",
+        "teamName": "Burnley",
+        "attributes": {
+            "PAC": 77,
+            "DRI": 84,
+            "SHO": 62,
+            "DEF": 99,
+            "PAS": 71,
+            "PHY": 51
+        },
+        "average": 74.0
+    },
+    {
+        "id": 150,
+        "name": "Amanda Killian",
+        "position": "LF",
+        "teamName": "Chelsea",
+        "attributes": {
+            "PAC": 83,
+            "DRI": 54,
+            "SHO": 75,
+            "DEF": 72,
+            "PAS": 67,
+            "PHY": 63
+        },
+        "average": 69.0
+    },
+    {
+        "id": 151,
+        "name": "Charles Ward",
+        "position": "CB",
+        "teamName": "Nottingham Forest",
+        "attributes": {
+            "PAC": 77,
+            "DRI": 88,
+            "SHO": 55,
+            "DEF": 89,
+            "PAS": 94,
+            "PHY": 77
+        },
+        "average": 80.0
+    },
+    {
+        "id": 152,
+        "name": "Thomas Spalding",
+        "position": "RM",
+        "teamName": "Manchester City",
+        "attributes": {
+            "PAC": 91,
+            "DRI": 66,
+            "SHO": 86,
+            "DEF": 55,
+            "PAS": 92,
+            "PHY": 92
+        },
+        "average": 80.3
+    },
+    {
+        "id": 153,
+        "name": "Steven Heck",
+        "position": "RM",
+        "teamName": "Brighton & Hove Albion",
+        "attributes": {
+            "PAC": 56,
+            "DRI": 72,
+            "SHO": 76,
+            "DEF": 80,
+            "PAS": 63,
+            "PHY": 65
+        },
+        "average": 68.7
+    },
+    {
+        "id": 154,
+        "name": "John Utter",
+        "position": "RWB",
+        "teamName": "West Ham United",
+        "attributes": {
+            "PAC": 75,
+            "DRI": 78,
+            "SHO": 52,
+            "DEF": 61,
+            "PAS": 87,
+            "PHY": 85
+        },
+        "average": 73.0
+    },
+    {
+        "id": 155,
+        "name": "Ramon Hurt",
+        "position": "SF",
+        "teamName": "Brighton & Hove Albion",
+        "attributes": {
+            "PAC": 78,
+            "DRI": 98,
+            "SHO": 88,
+            "DEF": 62,
+            "PAS": 59,
+            "PHY": 70
+        },
+        "average": 75.8
+    },
+    {
+        "id": 156,
+        "name": "Guy Martin",
+        "position": "CF",
+        "teamName": "Everton",
+        "attributes": {
+            "PAC": 67,
+            "DRI": 53,
+            "SHO": 94,
+            "DEF": 80,
+            "PAS": 81,
+            "PHY": 82
+        },
+        "average": 76.2
+    },
+    {
+        "id": 157,
+        "name": "Lee Gonzalez",
+        "position": "LWM",
+        "teamName": "Bournemouth",
+        "attributes": {
+            "PAC": 58,
+            "DRI": 86,
+            "SHO": 61,
+            "DEF": 63,
+            "PAS": 66,
+            "PHY": 75
+        },
+        "average": 68.2
+    },
+    {
+        "id": 158,
+        "name": "Gilbert Sales",
+        "position": "RCM",
+        "teamName": "West Ham United",
+        "attributes": {
+            "PAC": 50,
+            "DRI": 67,
+            "SHO": 69,
+            "DEF": 60,
+            "PAS": 92,
+            "PHY": 62
+        },
+        "average": 66.7
+    },
+    {
+        "id": 159,
+        "name": "Frederic Heath",
+        "position": "LCB",
+        "teamName": "Sheffield United",
+        "attributes": {
+            "PAC": 94,
+            "DRI": 67,
+            "SHO": 94,
+            "DEF": 72,
+            "PAS": 90,
+            "PHY": 92
+        },
+        "average": 84.8
+    },
+    {
+        "id": 160,
+        "name": "Ben Barnes",
+        "position": "LCM",
+        "teamName": "Tottenham Hotspur",
+        "attributes": {
+            "PAC": 96,
+            "DRI": 54,
+            "SHO": 68,
+            "DEF": 77,
+            "PAS": 95,
+            "PHY": 56
+        },
+        "average": 74.3
+    },
+    {
+        "id": 161,
+        "name": "Leo Graham",
+        "position": "LWB",
+        "teamName": "Burnley",
+        "attributes": {
+            "PAC": 72,
+            "DRI": 87,
+            "SHO": 75,
+            "DEF": 63,
+            "PAS": 64,
+            "PHY": 90
+        },
+        "average": 75.2
+    },
+    {
+        "id": 162,
+        "name": "David Scherer",
+        "position": "RF",
+        "teamName": "Manchester United",
+        "attributes": {
+            "PAC": 88,
+            "DRI": 78,
+            "SHO": 81,
+            "DEF": 99,
+            "PAS": 87,
+            "PHY": 66
+        },
+        "average": 83.2
+    },
+    {
+        "id": 163,
+        "name": "Edmund Philo",
+        "position": "RWM",
+        "teamName": "Chelsea",
+        "attributes": {
+            "PAC": 64,
+            "DRI": 53,
+            "SHO": 92,
+            "DEF": 77,
+            "PAS": 57,
+            "PHY": 62
+        },
+        "average": 67.5
+    },
+    {
+        "id": 164,
+        "name": "Peter Kent",
+        "position": "LM",
+        "teamName": "Luton Town",
+        "attributes": {
+            "PAC": 88,
+            "DRI": 58,
+            "SHO": 50,
+            "DEF": 69,
+            "PAS": 65,
+            "PHY": 91
+        },
+        "average": 70.2
+    },
+    {
+        "id": 165,
+        "name": "William Wood",
+        "position": "RWM",
+        "teamName": "Fulham",
+        "attributes": {
+            "PAC": 53,
+            "DRI": 59,
+            "SHO": 78,
+            "DEF": 75,
+            "PAS": 92,
+            "PHY": 50
+        },
+        "average": 67.8
+    },
+    {
+        "id": 166,
+        "name": "Jesus Valley",
+        "position": "LB",
+        "teamName": "Brighton & Hove Albion",
+        "attributes": {
+            "PAC": 90,
+            "DRI": 75,
+            "SHO": 67,
+            "DEF": 97,
+            "PAS": 64,
+            "PHY": 95
+        },
+        "average": 81.3
+    },
+    {
+        "id": 167,
+        "name": "Julia Massengill",
+        "position": "LWB",
+        "teamName": "Luton Town",
+        "attributes": {
+            "PAC": 65,
+            "DRI": 73,
+            "SHO": 83,
+            "DEF": 78,
+            "PAS": 62,
+            "PHY": 75
+        },
+        "average": 72.7
+    },
+    {
+        "id": 168,
+        "name": "Brittany Harris",
+        "position": "RCB",
+        "teamName": "Newcastle United",
+        "attributes": {
+            "PAC": 60,
+            "DRI": 86,
+            "SHO": 93,
+            "DEF": 51,
+            "PAS": 52,
+            "PHY": 90
+        },
+        "average": 72.0
+    },
+    {
+        "id": 169,
+        "name": "Tyler Smith",
+        "position": "LB",
+        "teamName": "Manchester United",
+        "attributes": {
+            "PAC": 59,
+            "DRI": 58,
+            "SHO": 90,
+            "DEF": 65,
+            "PAS": 57,
+            "PHY": 78
+        },
+        "average": 67.8
+    },
+    {
+        "id": 170,
+        "name": "Megan Haymond",
+        "position": "RM",
+        "teamName": "Fulham",
+        "attributes": {
+            "PAC": 87,
+            "DRI": 77,
+            "SHO": 56,
+            "DEF": 68,
+            "PAS": 73,
+            "PHY": 58
+        },
+        "average": 69.8
+    },
+    {
+        "id": 171,
+        "name": "Brian Ballinger",
+        "position": "RF",
+        "teamName": "Manchester City",
+        "attributes": {
+            "PAC": 56,
+            "DRI": 84,
+            "SHO": 55,
+            "DEF": 64,
+            "PAS": 63,
+            "PHY": 85
+        },
+        "average": 67.8
+    },
+    {
+        "id": 172,
+        "name": "Gary Speece",
+        "position": "CM",
+        "teamName": "Tottenham Hotspur",
+        "attributes": {
+            "PAC": 53,
+            "DRI": 88,
+            "SHO": 57,
+            "DEF": 67,
+            "PAS": 95,
+            "PHY": 63
+        },
+        "average": 70.5
+    },
+    {
+        "id": 173,
+        "name": "John Goods",
+        "position": "LWB",
+        "teamName": "Sheffield United",
+        "attributes": {
+            "PAC": 77,
+            "DRI": 63,
+            "SHO": 73,
+            "DEF": 57,
+            "PAS": 94,
+            "PHY": 87
+        },
+        "average": 75.2
+    },
+    {
+        "id": 174,
+        "name": "Cameron Durgan",
+        "position": "LCM",
+        "teamName": "Luton Town",
+        "attributes": {
+            "PAC": 62,
+            "DRI": 72,
+            "SHO": 57,
+            "DEF": 56,
+            "PAS": 82,
+            "PHY": 77
+        },
+        "average": 67.7
+    },
+    {
+        "id": 175,
+        "name": "Melvin King",
+        "position": "ST",
+        "teamName": "Chelsea",
+        "attributes": {
+            "PAC": 93,
+            "DRI": 63,
+            "SHO": 60,
+            "DEF": 83,
+            "PAS": 58,
+            "PHY": 74
+        },
+        "average": 71.8
+    },
+    {
+        "id": 176,
+        "name": "Carl Dejesus",
+        "position": "CDM",
+        "teamName": "Newcastle United",
+        "attributes": {
+            "PAC": 65,
+            "DRI": 75,
+            "SHO": 61,
+            "DEF": 56,
+            "PAS": 69,
+            "PHY": 50
+        },
+        "average": 62.7
+    },
+    {
+        "id": 177,
+        "name": "Jose Bonato",
+        "position": "LCDM",
+        "teamName": "Everton",
+        "attributes": {
+            "PAC": 61,
+            "DRI": 77,
+            "SHO": 76,
+            "DEF": 92,
+            "PAS": 92,
+            "PHY": 94
+        },
+        "average": 82.0
+    },
+    {
+        "id": 178,
+        "name": "Geoffrey Brewer",
+        "position": "GK",
+        "teamName": "Fulham",
+        "attributes": {
+            "PAC": 66,
+            "DRI": 58,
+            "SHO": 77,
+            "DEF": 64,
+            "PAS": 96,
+            "PHY": 93
+        },
+        "average": 75.7
+    },
+    {
+        "id": 179,
+        "name": "Karen Slaughter",
+        "position": "CM",
+        "teamName": "Wolverhampton Wanderers",
+        "attributes": {
+            "PAC": 56,
+            "DRI": 61,
+            "SHO": 85,
+            "DEF": 92,
+            "PAS": 69,
+            "PHY": 63
+        },
+        "average": 71.0
+    },
+    {
+        "id": 180,
+        "name": "Mary Shaw",
+        "position": "CF",
+        "teamName": "West Ham United",
+        "attributes": {
+            "PAC": 61,
+            "DRI": 95,
+            "SHO": 56,
+            "DEF": 85,
+            "PAS": 59,
+            "PHY": 78
+        },
+        "average": 72.3
+    },
+    {
+        "id": 181,
+        "name": "William Bebee",
+        "position": "LCDM",
+        "teamName": "Newcastle United",
+        "attributes": {
+            "PAC": 52,
+            "DRI": 56,
+            "SHO": 62,
+            "DEF": 81,
+            "PAS": 98,
+            "PHY": 99
+        },
+        "average": 74.7
+    },
+    {
+        "id": 182,
+        "name": "Lesley Walden",
+        "position": "RCM",
+        "teamName": "Burnley",
+        "attributes": {
+            "PAC": 93,
+            "DRI": 59,
+            "SHO": 90,
+            "DEF": 74,
+            "PAS": 87,
+            "PHY": 71
+        },
+        "average": 79.0
+    },
+    {
+        "id": 183,
+        "name": "John Sybert",
+        "position": "LM",
+        "teamName": "Luton Town",
+        "attributes": {
+            "PAC": 66,
+            "DRI": 98,
+            "SHO": 61,
+            "DEF": 81,
+            "PAS": 76,
+            "PHY": 64
+        },
+        "average": 74.3
+    },
+    {
+        "id": 184,
+        "name": "Joe Whaley",
+        "position": "RCB",
+        "teamName": "Aston Villa",
+        "attributes": {
+            "PAC": 51,
+            "DRI": 77,
+            "SHO": 54,
+            "DEF": 77,
+            "PAS": 83,
+            "PHY": 93
+        },
+        "average": 72.5
+    },
+    {
+        "id": 185,
+        "name": "Lucile Mayville",
+        "position": "RF",
+        "teamName": "Brighton & Hove Albion",
+        "attributes": {
+            "PAC": 50,
+            "DRI": 77,
+            "SHO": 85,
+            "DEF": 91,
+            "PAS": 85,
+            "PHY": 93
+        },
+        "average": 80.2
+    },
+    {
+        "id": 186,
+        "name": "Keneth Mayfield",
+        "position": "LM",
+        "teamName": "Wolverhampton Wanderers",
+        "attributes": {
+            "PAC": 65,
+            "DRI": 50,
+            "SHO": 72,
+            "DEF": 83,
+            "PAS": 69,
+            "PHY": 87
+        },
+        "average": 71.0
+    },
+    {
+        "id": 187,
+        "name": "Jonathan Grant",
+        "position": "LCDM",
+        "teamName": "Brentford",
+        "attributes": {
+            "PAC": 55,
+            "DRI": 69,
+            "SHO": 90,
+            "DEF": 99,
+            "PAS": 93,
+            "PHY": 75
+        },
+        "average": 80.2
+    },
+    {
+        "id": 188,
+        "name": "Annie Reibert",
+        "position": "RCB",
+        "teamName": "Crystal Palace",
+        "attributes": {
+            "PAC": 78,
+            "DRI": 80,
+            "SHO": 99,
+            "DEF": 87,
+            "PAS": 93,
+            "PHY": 56
+        },
+        "average": 82.2
+    },
+    {
+        "id": 189,
+        "name": "Jan Evans",
+        "position": "CM",
+        "teamName": "Crystal Palace",
+        "attributes": {
+            "PAC": 78,
+            "DRI": 67,
+            "SHO": 70,
+            "DEF": 58,
+            "PAS": 95,
+            "PHY": 72
+        },
+        "average": 73.3
+    },
+    {
+        "id": 190,
+        "name": "James Osborn",
+        "position": "RCM",
+        "teamName": "Newcastle United",
+        "attributes": {
+            "PAC": 89,
+            "DRI": 94,
+            "SHO": 63,
+            "DEF": 71,
+            "PAS": 76,
+            "PHY": 69
+        },
+        "average": 77.0
+    },
+    {
+        "id": 191,
+        "name": "James Gunderman",
+        "position": "RWM",
+        "teamName": "Brighton & Hove Albion",
+        "attributes": {
+            "PAC": 63,
+            "DRI": 76,
+            "SHO": 79,
+            "DEF": 98,
+            "PAS": 85,
+            "PHY": 54
+        },
+        "average": 75.8
+    },
+    {
+        "id": 192,
+        "name": "George Andrews",
+        "position": "CAM",
+        "teamName": "Manchester City",
+        "attributes": {
+            "PAC": 67,
+            "DRI": 78,
+            "SHO": 66,
+            "DEF": 67,
+            "PAS": 70,
+            "PHY": 56
+        },
+        "average": 67.3
+    },
+    {
+        "id": 193,
+        "name": "John Martinez",
+        "position": "CB",
+        "teamName": "Manchester United",
+        "attributes": {
+            "PAC": 85,
+            "DRI": 85,
+            "SHO": 69,
+            "DEF": 61,
+            "PAS": 79,
+            "PHY": 63
+        },
+        "average": 73.7
+    },
+    {
+        "id": 194,
+        "name": "Jennifer Colten",
+        "position": "RCB",
+        "teamName": "Aston Villa",
+        "attributes": {
+            "PAC": 93,
+            "DRI": 62,
+            "SHO": 54,
+            "DEF": 78,
+            "PAS": 78,
+            "PHY": 95
+        },
+        "average": 76.7
+    },
+    {
+        "id": 195,
+        "name": "Nichole Moore",
+        "position": "CAM",
+        "teamName": "Crystal Palace",
+        "attributes": {
+            "PAC": 69,
+            "DRI": 91,
+            "SHO": 54,
+            "DEF": 84,
+            "PAS": 95,
+            "PHY": 80
+        },
+        "average": 78.8
+    },
+    {
+        "id": 196,
+        "name": "Dustin Hammonds",
+        "position": "LWB",
+        "teamName": "Burnley",
+        "attributes": {
+            "PAC": 84,
+            "DRI": 74,
+            "SHO": 92,
+            "DEF": 92,
+            "PAS": 53,
+            "PHY": 60
+        },
+        "average": 75.8
+    },
+    {
+        "id": 197,
+        "name": "David Hammond",
+        "position": "LCB",
+        "teamName": "Nottingham Forest",
+        "attributes": {
+            "PAC": 98,
+            "DRI": 64,
+            "SHO": 65,
+            "DEF": 81,
+            "PAS": 54,
+            "PHY": 90
+        },
+        "average": 75.3
+    },
+    {
+        "id": 198,
+        "name": "Brian Terry",
+        "position": "GK",
+        "teamName": "Fulham",
+        "attributes": {
+            "PAC": 61,
+            "DRI": 81,
+            "SHO": 92,
+            "DEF": 87,
+            "PAS": 63,
+            "PHY": 71
+        },
+        "average": 75.8
+    },
+    {
+        "id": 199,
+        "name": "Greg Robison",
+        "position": "GK",
+        "teamName": "Luton Town",
+        "attributes": {
+            "PAC": 79,
+            "DRI": 91,
+            "SHO": 92,
+            "DEF": 72,
+            "PAS": 68,
+            "PHY": 69
+        },
+        "average": 78.5
+    },
+    {
+        "id": 200,
+        "name": "Bessie Rutherford",
+        "position": "LWM",
+        "teamName": "Everton",
+        "attributes": {
+            "PAC": 77,
+            "DRI": 94,
+            "SHO": 90,
+            "DEF": 52,
+            "PAS": 87,
+            "PHY": 73
+        },
+        "average": 78.8
+    },
+    {
+        "id": 201,
+        "name": "Autumn Theroux",
+        "position": "LB",
+        "teamName": "Tottenham Hotspur",
+        "attributes": {
+            "PAC": 79,
+            "DRI": 95,
+            "SHO": 70,
+            "DEF": 57,
+            "PAS": 86,
+            "PHY": 75
+        },
+        "average": 77.0
+    },
+    {
+        "id": 202,
+        "name": "Eugene Mccartt",
+        "position": "RF",
+        "teamName": "Wolverhampton Wanderers",
+        "attributes": {
+            "PAC": 85,
+            "DRI": 93,
+            "SHO": 95,
+            "DEF": 80,
+            "PAS": 77,
+            "PHY": 85
+        },
+        "average": 85.8
+    },
+    {
+        "id": 203,
+        "name": "Allison Strong",
+        "position": "ST",
+        "teamName": "Burnley",
+        "attributes": {
+            "PAC": 68,
+            "DRI": 81,
+            "SHO": 76,
+            "DEF": 74,
+            "PAS": 74,
+            "PHY": 95
+        },
+        "average": 78.0
+    },
+    {
+        "id": 204,
+        "name": "Heather Damico",
+        "position": "SF",
+        "teamName": "Brentford",
+        "attributes": {
+            "PAC": 61,
+            "DRI": 62,
+            "SHO": 77,
+            "DEF": 89,
+            "PAS": 52,
+            "PHY": 91
+        },
+        "average": 72.0
+    },
+    {
+        "id": 205,
+        "name": "Alan Enriguez",
+        "position": "LCM",
+        "teamName": "Burnley",
+        "attributes": {
+            "PAC": 56,
+            "DRI": 91,
+            "SHO": 66,
+            "DEF": 65,
+            "PAS": 73,
+            "PHY": 93
+        },
+        "average": 74.0
+    },
+    {
+        "id": 206,
+        "name": "Demetrius Parker",
+        "position": "LM",
+        "teamName": "Burnley",
+        "attributes": {
+            "PAC": 99,
+            "DRI": 83,
+            "SHO": 85,
+            "DEF": 74,
+            "PAS": 78,
+            "PHY": 76
+        },
+        "average": 82.5
+    },
+    {
+        "id": 207,
+        "name": "Wayne Correa",
+        "position": "CDM",
+        "teamName": "Sheffield United",
+        "attributes": {
+            "PAC": 62,
+            "DRI": 78,
+            "SHO": 50,
+            "DEF": 71,
+            "PAS": 58,
+            "PHY": 67
+        },
+        "average": 64.3
+    },
+    {
+        "id": 208,
+        "name": "Joseph Damiano",
+        "position": "RCB",
+        "teamName": "Wolverhampton Wanderers",
+        "attributes": {
+            "PAC": 89,
+            "DRI": 77,
+            "SHO": 88,
+            "DEF": 69,
+            "PAS": 89,
+            "PHY": 83
+        },
+        "average": 82.5
+    },
+    {
+        "id": 209,
+        "name": "Joe Clausen",
+        "position": "LF",
+        "teamName": "Manchester United",
+        "attributes": {
+            "PAC": 95,
+            "DRI": 78,
+            "SHO": 54,
+            "DEF": 54,
+            "PAS": 95,
+            "PHY": 93
+        },
+        "average": 78.2
+    },
+    {
+        "id": 210,
+        "name": "Michele Lardner",
+        "position": "LWB",
+        "teamName": "Nottingham Forest",
+        "attributes": {
+            "PAC": 95,
+            "DRI": 68,
+            "SHO": 60,
+            "DEF": 78,
+            "PAS": 64,
+            "PHY": 60
+        },
+        "average": 70.8
+    },
+    {
+        "id": 211,
+        "name": "Patrick Robinson",
+        "position": "LB",
+        "teamName": "Chelsea",
+        "attributes": {
+            "PAC": 53,
+            "DRI": 60,
+            "SHO": 90,
+            "DEF": 76,
+            "PAS": 66,
+            "PHY": 95
+        },
+        "average": 73.3
+    },
+    {
+        "id": 212,
+        "name": "James Buford",
+        "position": "RF",
+        "teamName": "Aston Villa",
+        "attributes": {
+            "PAC": 93,
+            "DRI": 96,
+            "SHO": 93,
+            "DEF": 97,
+            "PAS": 96,
+            "PHY": 53
+        },
+        "average": 88.0
+    },
+    {
+        "id": 213,
+        "name": "Anna Pratt",
+        "position": "RWM",
+        "teamName": "Manchester City",
+        "attributes": {
+            "PAC": 85,
+            "DRI": 79,
+            "SHO": 54,
+            "DEF": 95,
+            "PAS": 55,
+            "PHY": 88
+        },
+        "average": 76.0
+    },
+    {
+        "id": 214,
+        "name": "Wendy Winters",
+        "position": "RWM",
+        "teamName": "Everton",
+        "attributes": {
+            "PAC": 69,
+            "DRI": 72,
+            "SHO": 54,
+            "DEF": 90,
+            "PAS": 90,
+            "PHY": 90
+        },
+        "average": 77.5
+    },
+    {
+        "id": 215,
+        "name": "John Nichols",
+        "position": "LCDM",
+        "teamName": "Manchester United",
+        "attributes": {
+            "PAC": 80,
+            "DRI": 79,
+            "SHO": 63,
+            "DEF": 89,
+            "PAS": 53,
+            "PHY": 90
+        },
+        "average": 75.7
+    },
+    {
+        "id": 216,
+        "name": "Rosemary Faulkner",
+        "position": "RF",
+        "teamName": "Tottenham Hotspur",
+        "attributes": {
+            "PAC": 62,
+            "DRI": 78,
+            "SHO": 90,
+            "DEF": 96,
+            "PAS": 80,
+            "PHY": 67
+        },
+        "average": 78.8
+    },
+    {
+        "id": 217,
+        "name": "Daniel Rodgers",
+        "position": "CB",
+        "teamName": "Sheffield United",
+        "attributes": {
+            "PAC": 74,
+            "DRI": 69,
+            "SHO": 67,
+            "DEF": 99,
+            "PAS": 72,
+            "PHY": 60
+        },
+        "average": 73.5
+    },
+    {
+        "id": 218,
+        "name": "William Coon",
+        "position": "LWM",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 66,
+            "DRI": 76,
+            "SHO": 50,
+            "DEF": 93,
+            "PAS": 98,
+            "PHY": 70
+        },
+        "average": 75.5
+    },
+    {
+        "id": 219,
+        "name": "Jessica Wilson",
+        "position": "RCB",
+        "teamName": "Wolverhampton Wanderers",
+        "attributes": {
+            "PAC": 54,
+            "DRI": 62,
+            "SHO": 50,
+            "DEF": 91,
+            "PAS": 68,
+            "PHY": 85
+        },
+        "average": 68.3
+    },
+    {
+        "id": 220,
+        "name": "Jesus Noriega",
+        "position": "LCB",
+        "teamName": "Fulham",
+        "attributes": {
+            "PAC": 99,
+            "DRI": 69,
+            "SHO": 75,
+            "DEF": 82,
+            "PAS": 75,
+            "PHY": 80
+        },
+        "average": 80.0
+    },
+    {
+        "id": 221,
+        "name": "Rosemary Mench",
+        "position": "RCDM",
+        "teamName": "Burnley",
+        "attributes": {
+            "PAC": 87,
+            "DRI": 91,
+            "SHO": 76,
+            "DEF": 73,
+            "PAS": 68,
+            "PHY": 57
+        },
+        "average": 75.3
+    },
+    {
+        "id": 222,
+        "name": "Abel Allbright",
+        "position": "LWB",
+        "teamName": "Everton",
+        "attributes": {
+            "PAC": 67,
+            "DRI": 68,
+            "SHO": 58,
+            "DEF": 72,
+            "PAS": 91,
+            "PHY": 90
+        },
+        "average": 74.3
+    },
+    {
+        "id": 223,
+        "name": "Victoria Anderson",
+        "position": "LCB",
+        "teamName": "Newcastle United",
+        "attributes": {
+            "PAC": 81,
+            "DRI": 53,
+            "SHO": 57,
+            "DEF": 55,
+            "PAS": 70,
+            "PHY": 58
+        },
+        "average": 62.3
+    },
+    {
+        "id": 224,
+        "name": "Henry Young",
+        "position": "LCB",
+        "teamName": "West Ham United",
+        "attributes": {
+            "PAC": 72,
+            "DRI": 85,
+            "SHO": 81,
+            "DEF": 99,
+            "PAS": 70,
+            "PHY": 99
+        },
+        "average": 84.3
+    },
+    {
+        "id": 225,
+        "name": "Kenneth Brunelle",
+        "position": "LWM",
+        "teamName": "Burnley",
+        "attributes": {
+            "PAC": 56,
+            "DRI": 71,
+            "SHO": 98,
+            "DEF": 52,
+            "PAS": 98,
+            "PHY": 54
+        },
+        "average": 71.5
+    },
+    {
+        "id": 226,
+        "name": "Mamie Mclaughlin",
+        "position": "RB",
+        "teamName": "Arsenal",
+        "attributes": {
+            "PAC": 62,
+            "DRI": 69,
+            "SHO": 93,
+            "DEF": 66,
+            "PAS": 62,
+            "PHY": 72
+        },
+        "average": 70.7
+    },
+    {
+        "id": 227,
+        "name": "Sherri Lamar",
+        "position": "LF",
+        "teamName": "Bournemouth",
+        "attributes": {
+            "PAC": 56,
+            "DRI": 67,
+            "SHO": 57,
+            "DEF": 78,
+            "PAS": 53,
+            "PHY": 57
+        },
+        "average": 61.3
+    },
+    {
+        "id": 228,
+        "name": "Justin Mendez",
+        "position": "RWM",
+        "teamName": "Newcastle United",
+        "attributes": {
+            "PAC": 70,
+            "DRI": 94,
+            "SHO": 55,
+            "DEF": 53,
+            "PAS": 83,
+            "PHY": 83
+        },
+        "average": 73.0
+    },
+    {
+        "id": 229,
+        "name": "Kathleen Mccoy",
+        "position": "RB",
+        "teamName": "Burnley",
+        "attributes": {
+            "PAC": 57,
+            "DRI": 88,
+            "SHO": 69,
+            "DEF": 98,
+            "PAS": 73,
+            "PHY": 60
+        },
+        "average": 74.2
+    },
+    {
+        "id": 230,
+        "name": "Amy Bell",
+        "position": "RF",
+        "teamName": "Crystal Palace",
+        "attributes": {
+            "PAC": 62,
+            "DRI": 81,
+            "SHO": 79,
+            "DEF": 88,
+            "PAS": 55,
+            "PHY": 96
+        },
+        "average": 76.8
+    },
+    {
+        "id": 231,
+        "name": "Norman Gonzalez",
+        "position": "RF",
+        "teamName": "Fulham",
+        "attributes": {
+            "PAC": 82,
+            "DRI": 93,
+            "SHO": 65,
+            "DEF": 89,
+            "PAS": 52,
+            "PHY": 93
+        },
+        "average": 79.0
+    },
+    {
+        "id": 232,
+        "name": "John Reckart",
+        "position": "CM",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 63,
+            "DRI": 73,
+            "SHO": 86,
+            "DEF": 85,
+            "PAS": 79,
+            "PHY": 96
+        },
+        "average": 80.3
+    },
+    {
+        "id": 233,
+        "name": "Brook Heimbach",
+        "position": "CM",
+        "teamName": "Brighton & Hove Albion",
+        "attributes": {
+            "PAC": 97,
+            "DRI": 82,
+            "SHO": 92,
+            "DEF": 62,
+            "PAS": 79,
+            "PHY": 76
+        },
+        "average": 81.3
+    },
+    {
+        "id": 234,
+        "name": "Felicia Bumgardner",
+        "position": "CM",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 76,
+            "DRI": 72,
+            "SHO": 92,
+            "DEF": 87,
+            "PAS": 61,
+            "PHY": 84
+        },
+        "average": 78.7
+    },
+    {
+        "id": 235,
+        "name": "Orlando Lilley",
+        "position": "CM",
+        "teamName": "Manchester City",
+        "attributes": {
+            "PAC": 78,
+            "DRI": 87,
+            "SHO": 52,
+            "DEF": 95,
+            "PAS": 68,
+            "PHY": 90
+        },
+        "average": 78.3
+    },
+    {
+        "id": 236,
+        "name": "Patricia Ruble",
+        "position": "ST",
+        "teamName": "Tottenham Hotspur",
+        "attributes": {
+            "PAC": 74,
+            "DRI": 54,
+            "SHO": 90,
+            "DEF": 61,
+            "PAS": 77,
+            "PHY": 93
+        },
+        "average": 74.8
+    },
+    {
+        "id": 237,
+        "name": "Lawrence Stehlik",
+        "position": "SF",
+        "teamName": "Nottingham Forest",
+        "attributes": {
+            "PAC": 63,
+            "DRI": 74,
+            "SHO": 96,
+            "DEF": 76,
+            "PAS": 51,
+            "PHY": 64
+        },
+        "average": 70.7
+    },
+    {
+        "id": 238,
+        "name": "Glenn Floyd",
+        "position": "RM",
+        "teamName": "Chelsea",
+        "attributes": {
+            "PAC": 57,
+            "DRI": 62,
+            "SHO": 74,
+            "DEF": 78,
+            "PAS": 70,
+            "PHY": 80
+        },
+        "average": 70.2
+    },
+    {
+        "id": 239,
+        "name": "Scott Aiton",
+        "position": "RM",
+        "teamName": "Burnley",
+        "attributes": {
+            "PAC": 53,
+            "DRI": 53,
+            "SHO": 58,
+            "DEF": 75,
+            "PAS": 86,
+            "PHY": 91
+        },
+        "average": 69.3
+    },
+    {
+        "id": 240,
+        "name": "Selene Gray",
+        "position": "RF",
+        "teamName": "Luton Town",
+        "attributes": {
+            "PAC": 89,
+            "DRI": 88,
+            "SHO": 59,
+            "DEF": 62,
+            "PAS": 86,
+            "PHY": 86
+        },
+        "average": 78.3
+    },
+    {
+        "id": 241,
+        "name": "Jackie Wiles",
+        "position": "LCDM",
+        "teamName": "Crystal Palace",
+        "attributes": {
+            "PAC": 62,
+            "DRI": 81,
+            "SHO": 80,
+            "DEF": 72,
+            "PAS": 61,
+            "PHY": 95
+        },
+        "average": 75.2
+    },
+    {
+        "id": 242,
+        "name": "James Arthurs",
+        "position": "RCM",
+        "teamName": "Manchester United",
+        "attributes": {
+            "PAC": 79,
+            "DRI": 52,
+            "SHO": 83,
+            "DEF": 75,
+            "PAS": 72,
+            "PHY": 83
+        },
+        "average": 74.0
+    },
+    {
+        "id": 243,
+        "name": "Virginia Merrill",
+        "position": "ST",
+        "teamName": "Newcastle United",
+        "attributes": {
+            "PAC": 83,
+            "DRI": 85,
+            "SHO": 71,
+            "DEF": 72,
+            "PAS": 84,
+            "PHY": 58
+        },
+        "average": 75.5
+    },
+    {
+        "id": 244,
+        "name": "Paul Rivera",
+        "position": "RB",
+        "teamName": "Manchester City",
+        "attributes": {
+            "PAC": 68,
+            "DRI": 79,
+            "SHO": 58,
+            "DEF": 67,
+            "PAS": 95,
+            "PHY": 99
+        },
+        "average": 77.7
+    },
+    {
+        "id": 245,
+        "name": "Laurie Garcia",
+        "position": "GK",
+        "teamName": "Arsenal",
+        "attributes": {
+            "PAC": 86,
+            "DRI": 55,
+            "SHO": 82,
+            "DEF": 83,
+            "PAS": 68,
+            "PHY": 66
+        },
+        "average": 73.3
+    },
+    {
+        "id": 246,
+        "name": "James Davis",
+        "position": "LF",
+        "teamName": "Brighton & Hove Albion",
+        "attributes": {
+            "PAC": 84,
+            "DRI": 60,
+            "SHO": 59,
+            "DEF": 99,
+            "PAS": 52,
+            "PHY": 66
+        },
+        "average": 70.0
+    },
+    {
+        "id": 247,
+        "name": "Jasmine White",
+        "position": "CAM",
+        "teamName": "Manchester United",
+        "attributes": {
+            "PAC": 55,
+            "DRI": 50,
+            "SHO": 80,
+            "DEF": 60,
+            "PAS": 60,
+            "PHY": 61
+        },
+        "average": 61.0
+    },
+    {
+        "id": 248,
+        "name": "Arthur Peters",
+        "position": "RCM",
+        "teamName": "Tottenham Hotspur",
+        "attributes": {
+            "PAC": 93,
+            "DRI": 59,
+            "SHO": 60,
+            "DEF": 78,
+            "PAS": 63,
+            "PHY": 69
+        },
+        "average": 70.3
+    },
+    {
+        "id": 249,
+        "name": "Karen Smith",
+        "position": "ST",
+        "teamName": "Manchester United",
+        "attributes": {
+            "PAC": 82,
+            "DRI": 66,
+            "SHO": 84,
+            "DEF": 76,
+            "PAS": 88,
+            "PHY": 94
+        },
+        "average": 81.7
+    },
+    {
+        "id": 250,
+        "name": "Irma Kinnan",
+        "position": "RB",
+        "teamName": "Nottingham Forest",
+        "attributes": {
+            "PAC": 91,
+            "DRI": 89,
+            "SHO": 92,
+            "DEF": 91,
+            "PAS": 95,
+            "PHY": 68
+        },
+        "average": 87.7
+    },
+    {
+        "id": 251,
+        "name": "Chuck Green",
+        "position": "GK",
+        "teamName": "Luton Town",
+        "attributes": {
+            "PAC": 59,
+            "DRI": 59,
+            "SHO": 99,
+            "DEF": 99,
+            "PAS": 99,
+            "PHY": 51
+        },
+        "average": 77.7
+    },
+    {
+        "id": 252,
+        "name": "Tammy Carlson",
+        "position": "LM",
+        "teamName": "Luton Town",
+        "attributes": {
+            "PAC": 54,
+            "DRI": 61,
+            "SHO": 73,
+            "DEF": 70,
+            "PAS": 96,
+            "PHY": 77
+        },
+        "average": 71.8
+    },
+    {
+        "id": 253,
+        "name": "Willie Khan",
+        "position": "RCB",
+        "teamName": "Crystal Palace",
+        "attributes": {
+            "PAC": 84,
+            "DRI": 62,
+            "SHO": 53,
+            "DEF": 61,
+            "PAS": 90,
+            "PHY": 51
+        },
+        "average": 66.8
+    },
+    {
+        "id": 254,
+        "name": "Charlotte Coyle",
+        "position": "LWM",
+        "teamName": "Brentford",
+        "attributes": {
+            "PAC": 63,
+            "DRI": 58,
+            "SHO": 92,
+            "DEF": 91,
+            "PAS": 92,
+            "PHY": 55
+        },
+        "average": 75.2
+    },
+    {
+        "id": 255,
+        "name": "Mark Romero",
+        "position": "LCDM",
+        "teamName": "Nottingham Forest",
+        "attributes": {
+            "PAC": 74,
+            "DRI": 88,
+            "SHO": 57,
+            "DEF": 80,
+            "PAS": 73,
+            "PHY": 82
+        },
+        "average": 75.7
+    },
+    {
+        "id": 256,
+        "name": "Alta Dorsey",
+        "position": "LWB",
+        "teamName": "Newcastle United",
+        "attributes": {
+            "PAC": 90,
+            "DRI": 66,
+            "SHO": 56,
+            "DEF": 60,
+            "PAS": 57,
+            "PHY": 77
+        },
+        "average": 67.7
+    },
+    {
+        "id": 257,
+        "name": "Hilda Clendenen",
+        "position": "RCB",
+        "teamName": "Fulham",
+        "attributes": {
+            "PAC": 64,
+            "DRI": 82,
+            "SHO": 73,
+            "DEF": 99,
+            "PAS": 82,
+            "PHY": 81
+        },
+        "average": 80.2
+    },
+    {
+        "id": 258,
+        "name": "Concepcion Hulse",
+        "position": "LB",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 84,
+            "DRI": 68,
+            "SHO": 68,
+            "DEF": 73,
+            "PAS": 54,
+            "PHY": 96
+        },
+        "average": 73.8
+    },
+    {
+        "id": 259,
+        "name": "Christine Miller",
+        "position": "LWM",
+        "teamName": "Crystal Palace",
+        "attributes": {
+            "PAC": 62,
+            "DRI": 60,
+            "SHO": 95,
+            "DEF": 58,
+            "PAS": 99,
+            "PHY": 52
+        },
+        "average": 71.0
+    },
+    {
+        "id": 260,
+        "name": "Richard Legg",
+        "position": "LB",
+        "teamName": "Brighton & Hove Albion",
+        "attributes": {
+            "PAC": 52,
+            "DRI": 88,
+            "SHO": 77,
+            "DEF": 99,
+            "PAS": 84,
+            "PHY": 55
+        },
+        "average": 75.8
+    },
+    {
+        "id": 261,
+        "name": "Rose Giles",
+        "position": "RCB",
+        "teamName": "Bournemouth",
+        "attributes": {
+            "PAC": 95,
+            "DRI": 56,
+            "SHO": 91,
+            "DEF": 73,
+            "PAS": 60,
+            "PHY": 83
+        },
+        "average": 76.3
+    },
+    {
+        "id": 262,
+        "name": "Barbara Vojna",
+        "position": "RWM",
+        "teamName": "Manchester United",
+        "attributes": {
+            "PAC": 66,
+            "DRI": 64,
+            "SHO": 87,
+            "DEF": 68,
+            "PAS": 98,
+            "PHY": 64
+        },
+        "average": 74.5
+    },
+    {
+        "id": 263,
+        "name": "Lowell Aiello",
+        "position": "RB",
+        "teamName": "West Ham United",
+        "attributes": {
+            "PAC": 60,
+            "DRI": 84,
+            "SHO": 79,
+            "DEF": 92,
+            "PAS": 71,
+            "PHY": 61
+        },
+        "average": 74.5
+    },
+    {
+        "id": 264,
+        "name": "Denyse Halsey",
+        "position": "RB",
+        "teamName": "Brighton & Hove Albion",
+        "attributes": {
+            "PAC": 75,
+            "DRI": 70,
+            "SHO": 83,
+            "DEF": 75,
+            "PAS": 69,
+            "PHY": 87
+        },
+        "average": 76.5
+    },
+    {
+        "id": 265,
+        "name": "Kimberly Miller",
+        "position": "CAM",
+        "teamName": "Arsenal",
+        "attributes": {
+            "PAC": 70,
+            "DRI": 58,
+            "SHO": 80,
+            "DEF": 72,
+            "PAS": 70,
+            "PHY": 76
+        },
+        "average": 71.0
+    },
+    {
+        "id": 266,
+        "name": "Vergie Subert",
+        "position": "LCDM",
+        "teamName": "Arsenal",
+        "attributes": {
+            "PAC": 69,
+            "DRI": 97,
+            "SHO": 89,
+            "DEF": 62,
+            "PAS": 67,
+            "PHY": 91
+        },
+        "average": 79.2
+    },
+    {
+        "id": 267,
+        "name": "Michael Faron",
+        "position": "CF",
+        "teamName": "Everton",
+        "attributes": {
+            "PAC": 60,
+            "DRI": 72,
+            "SHO": 89,
+            "DEF": 96,
+            "PAS": 80,
+            "PHY": 57
+        },
+        "average": 75.7
+    },
+    {
+        "id": 268,
+        "name": "Lupe Rogers",
+        "position": "LCM",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 81,
+            "DRI": 64,
+            "SHO": 63,
+            "DEF": 68,
+            "PAS": 68,
+            "PHY": 85
+        },
+        "average": 71.5
+    },
+    {
+        "id": 269,
+        "name": "Melanie Labarbera",
+        "position": "LWM",
+        "teamName": "Tottenham Hotspur",
+        "attributes": {
+            "PAC": 94,
+            "DRI": 98,
+            "SHO": 70,
+            "DEF": 78,
+            "PAS": 82,
+            "PHY": 82
+        },
+        "average": 84.0
+    },
+    {
+        "id": 270,
+        "name": "Kelly Parker",
+        "position": "RCM",
+        "teamName": "Chelsea",
+        "attributes": {
+            "PAC": 76,
+            "DRI": 72,
+            "SHO": 60,
+            "DEF": 77,
+            "PAS": 78,
+            "PHY": 51
+        },
+        "average": 69.0
+    },
+    {
+        "id": 271,
+        "name": "James Herr",
+        "position": "RF",
+        "teamName": "Brentford",
+        "attributes": {
+            "PAC": 70,
+            "DRI": 79,
+            "SHO": 79,
+            "DEF": 65,
+            "PAS": 68,
+            "PHY": 55
+        },
+        "average": 69.3
+    },
+    {
+        "id": 272,
+        "name": "Charlene Cooper",
+        "position": "RB",
+        "teamName": "Nottingham Forest",
+        "attributes": {
+            "PAC": 73,
+            "DRI": 79,
+            "SHO": 60,
+            "DEF": 66,
+            "PAS": 83,
+            "PHY": 67
+        },
+        "average": 71.3
+    },
+    {
+        "id": 273,
+        "name": "James Foreman",
+        "position": "LF",
+        "teamName": "Chelsea",
+        "attributes": {
+            "PAC": 65,
+            "DRI": 61,
+            "SHO": 89,
+            "DEF": 51,
+            "PAS": 82,
+            "PHY": 65
+        },
+        "average": 68.8
+    },
+    {
+        "id": 274,
+        "name": "Connie Godfrey",
+        "position": "CDM",
+        "teamName": "Chelsea",
+        "attributes": {
+            "PAC": 57,
+            "DRI": 50,
+            "SHO": 56,
+            "DEF": 62,
+            "PAS": 74,
+            "PHY": 95
+        },
+        "average": 65.7
+    },
+    {
+        "id": 275,
+        "name": "William Haney",
+        "position": "RB",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 96,
+            "DRI": 50,
+            "SHO": 99,
+            "DEF": 63,
+            "PAS": 75,
+            "PHY": 83
+        },
+        "average": 77.7
+    },
+    {
+        "id": 276,
+        "name": "Jesus Cockerill",
+        "position": "CDM",
+        "teamName": "Brentford",
+        "attributes": {
+            "PAC": 89,
+            "DRI": 80,
+            "SHO": 91,
+            "DEF": 57,
+            "PAS": 87,
+            "PHY": 83
+        },
+        "average": 81.2
+    },
+    {
+        "id": 277,
+        "name": "Dennis Stitt",
+        "position": "LCB",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 74,
+            "DRI": 91,
+            "SHO": 94,
+            "DEF": 92,
+            "PAS": 67,
+            "PHY": 65
+        },
+        "average": 80.5
+    },
+    {
+        "id": 278,
+        "name": "Tamara King",
+        "position": "LWB",
+        "teamName": "Newcastle United",
+        "attributes": {
+            "PAC": 82,
+            "DRI": 91,
+            "SHO": 62,
+            "DEF": 98,
+            "PAS": 82,
+            "PHY": 63
+        },
+        "average": 79.7
+    },
+    {
+        "id": 279,
+        "name": "Donald Harris",
+        "position": "CDM",
+        "teamName": "Luton Town",
+        "attributes": {
+            "PAC": 52,
+            "DRI": 60,
+            "SHO": 89,
+            "DEF": 59,
+            "PAS": 84,
+            "PHY": 78
+        },
+        "average": 70.3
+    },
+    {
+        "id": 280,
+        "name": "Luis Spegal",
+        "position": "CDM",
+        "teamName": "Manchester United",
+        "attributes": {
+            "PAC": 94,
+            "DRI": 63,
+            "SHO": 97,
+            "DEF": 62,
+            "PAS": 57,
+            "PHY": 96
+        },
+        "average": 78.2
+    },
+    {
+        "id": 281,
+        "name": "Hubert Mcevoy",
+        "position": "RCB",
+        "teamName": "Brighton & Hove Albion",
+        "attributes": {
+            "PAC": 76,
+            "DRI": 79,
+            "SHO": 75,
+            "DEF": 79,
+            "PAS": 57,
+            "PHY": 79
+        },
+        "average": 74.2
+    },
+    {
+        "id": 282,
+        "name": "Christopher Fulbright",
+        "position": "LB",
+        "teamName": "Everton",
+        "attributes": {
+            "PAC": 74,
+            "DRI": 79,
+            "SHO": 66,
+            "DEF": 98,
+            "PAS": 86,
+            "PHY": 72
+        },
+        "average": 79.2
+    },
+    {
+        "id": 283,
+        "name": "Michael Shelpman",
+        "position": "LCM",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 96,
+            "DRI": 98,
+            "SHO": 90,
+            "DEF": 84,
+            "PAS": 99,
+            "PHY": 72
+        },
+        "average": 89.8
+    },
+    {
+        "id": 284,
+        "name": "Randal Hewson",
+        "position": "CM",
+        "teamName": "Brighton & Hove Albion",
+        "attributes": {
+            "PAC": 95,
+            "DRI": 96,
+            "SHO": 58,
+            "DEF": 50,
+            "PAS": 70,
+            "PHY": 93
+        },
+        "average": 77.0
+    },
+    {
+        "id": 285,
+        "name": "George Doland",
+        "position": "RM",
+        "teamName": "Arsenal",
+        "attributes": {
+            "PAC": 78,
+            "DRI": 73,
+            "SHO": 98,
+            "DEF": 92,
+            "PAS": 52,
+            "PHY": 95
+        },
+        "average": 81.3
+    },
+    {
+        "id": 286,
+        "name": "Milagro Berry",
+        "position": "RCDM",
+        "teamName": "Everton",
+        "attributes": {
+            "PAC": 51,
+            "DRI": 98,
+            "SHO": 74,
+            "DEF": 60,
+            "PAS": 50,
+            "PHY": 66
+        },
+        "average": 66.5
+    },
+    {
+        "id": 287,
+        "name": "Juan Lucius",
+        "position": "CB",
+        "teamName": "Tottenham Hotspur",
+        "attributes": {
+            "PAC": 55,
+            "DRI": 66,
+            "SHO": 67,
+            "DEF": 89,
+            "PAS": 71,
+            "PHY": 82
+        },
+        "average": 71.7
+    },
+    {
+        "id": 288,
+        "name": "James Carr",
+        "position": "CF",
+        "teamName": "West Ham United",
+        "attributes": {
+            "PAC": 77,
+            "DRI": 87,
+            "SHO": 58,
+            "DEF": 98,
+            "PAS": 97,
+            "PHY": 61
+        },
+        "average": 79.7
+    },
+    {
+        "id": 289,
+        "name": "Rebecca Cassin",
+        "position": "LWM",
+        "teamName": "Sheffield United",
+        "attributes": {
+            "PAC": 70,
+            "DRI": 92,
+            "SHO": 61,
+            "DEF": 91,
+            "PAS": 94,
+            "PHY": 82
+        },
+        "average": 81.7
+    },
+    {
+        "id": 290,
+        "name": "Margaret Post",
+        "position": "LM",
+        "teamName": "Manchester United",
+        "attributes": {
+            "PAC": 82,
+            "DRI": 99,
+            "SHO": 52,
+            "DEF": 69,
+            "PAS": 70,
+            "PHY": 97
+        },
+        "average": 78.2
+    },
+    {
+        "id": 291,
+        "name": "Michael Coggan",
+        "position": "CAM",
+        "teamName": "Nottingham Forest",
+        "attributes": {
+            "PAC": 66,
+            "DRI": 74,
+            "SHO": 56,
+            "DEF": 97,
+            "PAS": 73,
+            "PHY": 91
+        },
+        "average": 76.2
+    },
+    {
+        "id": 292,
+        "name": "Wayne Hall",
+        "position": "RM",
+        "teamName": "Nottingham Forest",
+        "attributes": {
+            "PAC": 54,
+            "DRI": 76,
+            "SHO": 97,
+            "DEF": 91,
+            "PAS": 77,
+            "PHY": 90
+        },
+        "average": 80.8
+    },
+    {
+        "id": 293,
+        "name": "Lynne Mendez",
+        "position": "CDM",
+        "teamName": "Fulham",
+        "attributes": {
+            "PAC": 89,
+            "DRI": 91,
+            "SHO": 79,
+            "DEF": 75,
+            "PAS": 64,
+            "PHY": 70
+        },
+        "average": 78.0
+    },
+    {
+        "id": 294,
+        "name": "Rene Hall",
+        "position": "SF",
+        "teamName": "Chelsea",
+        "attributes": {
+            "PAC": 88,
+            "DRI": 62,
+            "SHO": 95,
+            "DEF": 98,
+            "PAS": 97,
+            "PHY": 59
+        },
+        "average": 83.2
+    },
+    {
+        "id": 295,
+        "name": "Leah Cordova",
+        "position": "RCM",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 54,
+            "DRI": 97,
+            "SHO": 89,
+            "DEF": 83,
+            "PAS": 94,
+            "PHY": 82
+        },
+        "average": 83.2
+    },
+    {
+        "id": 296,
+        "name": "Randy Whipple",
+        "position": "RWB",
+        "teamName": "Nottingham Forest",
+        "attributes": {
+            "PAC": 90,
+            "DRI": 74,
+            "SHO": 88,
+            "DEF": 81,
+            "PAS": 98,
+            "PHY": 86
+        },
+        "average": 86.2
+    },
+    {
+        "id": 297,
+        "name": "Haley Ferguson",
+        "position": "RF",
+        "teamName": "Manchester United",
+        "attributes": {
+            "PAC": 97,
+            "DRI": 64,
+            "SHO": 68,
+            "DEF": 57,
+            "PAS": 59,
+            "PHY": 53
+        },
+        "average": 66.3
+    },
+    {
+        "id": 298,
+        "name": "Steven Yost",
+        "position": "RM",
+        "teamName": "Manchester City",
+        "attributes": {
+            "PAC": 54,
+            "DRI": 64,
+            "SHO": 74,
+            "DEF": 77,
+            "PAS": 85,
+            "PHY": 92
+        },
+        "average": 74.3
+    },
+    {
+        "id": 299,
+        "name": "Maria Harding",
+        "position": "CDM",
+        "teamName": "West Ham United",
+        "attributes": {
+            "PAC": 55,
+            "DRI": 72,
+            "SHO": 84,
+            "DEF": 73,
+            "PAS": 85,
+            "PHY": 74
+        },
+        "average": 73.8
+    },
+    {
+        "id": 300,
+        "name": "Kenny Hendon",
+        "position": "RWM",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 90,
+            "DRI": 55,
+            "SHO": 93,
+            "DEF": 69,
+            "PAS": 92,
+            "PHY": 77
+        },
+        "average": 79.3
+    },
+    {
+        "id": 301,
+        "name": "Andrew Smith",
+        "position": "RCDM",
+        "teamName": "Luton Town",
+        "attributes": {
+            "PAC": 60,
+            "DRI": 90,
+            "SHO": 55,
+            "DEF": 60,
+            "PAS": 54,
+            "PHY": 55
+        },
+        "average": 62.3
+    },
+    {
+        "id": 302,
+        "name": "George Velasquez",
+        "position": "RCDM",
+        "teamName": "Burnley",
+        "attributes": {
+            "PAC": 66,
+            "DRI": 86,
+            "SHO": 67,
+            "DEF": 52,
+            "PAS": 76,
+            "PHY": 60
+        },
+        "average": 67.8
+    },
+    {
+        "id": 303,
+        "name": "Melvin Frutchey",
+        "position": "CAM",
+        "teamName": "Bournemouth",
+        "attributes": {
+            "PAC": 86,
+            "DRI": 95,
+            "SHO": 91,
+            "DEF": 81,
+            "PAS": 56,
+            "PHY": 76
+        },
+        "average": 80.8
+    },
+    {
+        "id": 304,
+        "name": "Marie Grant",
+        "position": "CF",
+        "teamName": "West Ham United",
+        "attributes": {
+            "PAC": 82,
+            "DRI": 68,
+            "SHO": 52,
+            "DEF": 54,
+            "PAS": 98,
+            "PHY": 79
+        },
+        "average": 72.2
+    },
+    {
+        "id": 305,
+        "name": "Natalie Lewis",
+        "position": "RB",
+        "teamName": "Burnley",
+        "attributes": {
+            "PAC": 55,
+            "DRI": 58,
+            "SHO": 95,
+            "DEF": 69,
+            "PAS": 82,
+            "PHY": 79
+        },
+        "average": 73.0
+    },
+    {
+        "id": 306,
+        "name": "Amalia Gjelaj",
+        "position": "CF",
+        "teamName": "Manchester City",
+        "attributes": {
+            "PAC": 52,
+            "DRI": 63,
+            "SHO": 83,
+            "DEF": 96,
+            "PAS": 91,
+            "PHY": 74
+        },
+        "average": 76.5
+    },
+    {
+        "id": 307,
+        "name": "Byron Brown",
+        "position": "GK",
+        "teamName": "Nottingham Forest",
+        "attributes": {
+            "PAC": 63,
+            "DRI": 88,
+            "SHO": 71,
+            "DEF": 73,
+            "PAS": 55,
+            "PHY": 98
+        },
+        "average": 74.7
+    },
+    {
+        "id": 308,
+        "name": "Marion Morris",
+        "position": "RCB",
+        "teamName": "Brentford",
+        "attributes": {
+            "PAC": 85,
+            "DRI": 68,
+            "SHO": 93,
+            "DEF": 73,
+            "PAS": 79,
+            "PHY": 98
+        },
+        "average": 82.7
+    },
+    {
+        "id": 309,
+        "name": "Helen Clagon",
+        "position": "SF",
+        "teamName": "Burnley",
+        "attributes": {
+            "PAC": 83,
+            "DRI": 76,
+            "SHO": 65,
+            "DEF": 76,
+            "PAS": 91,
+            "PHY": 50
+        },
+        "average": 73.5
+    },
+    {
+        "id": 310,
+        "name": "Mary Berg",
+        "position": "GK",
+        "teamName": "Manchester United",
+        "attributes": {
+            "PAC": 93,
+            "DRI": 92,
+            "SHO": 95,
+            "DEF": 81,
+            "PAS": 99,
+            "PHY": 58
+        },
+        "average": 86.3
+    },
+    {
+        "id": 311,
+        "name": "Anna Runyan",
+        "position": "CDM",
+        "teamName": "Brighton & Hove Albion",
+        "attributes": {
+            "PAC": 84,
+            "DRI": 73,
+            "SHO": 93,
+            "DEF": 78,
+            "PAS": 66,
+            "PHY": 58
+        },
+        "average": 75.3
+    },
+    {
+        "id": 312,
+        "name": "Deena Cromartie",
+        "position": "CB",
+        "teamName": "Arsenal",
+        "attributes": {
+            "PAC": 67,
+            "DRI": 68,
+            "SHO": 85,
+            "DEF": 79,
+            "PAS": 86,
+            "PHY": 73
+        },
+        "average": 76.3
+    },
+    {
+        "id": 313,
+        "name": "John Stephenson",
+        "position": "CAM",
+        "teamName": "Arsenal",
+        "attributes": {
+            "PAC": 74,
+            "DRI": 70,
+            "SHO": 97,
+            "DEF": 64,
+            "PAS": 70,
+            "PHY": 74
+        },
+        "average": 74.8
+    },
+    {
+        "id": 314,
+        "name": "Misti Browning",
+        "position": "LM",
+        "teamName": "Tottenham Hotspur",
+        "attributes": {
+            "PAC": 80,
+            "DRI": 91,
+            "SHO": 67,
+            "DEF": 75,
+            "PAS": 96,
+            "PHY": 91
+        },
+        "average": 83.3
+    },
+    {
+        "id": 315,
+        "name": "Adam Keller",
+        "position": "CB",
+        "teamName": "Brighton & Hove Albion",
+        "attributes": {
+            "PAC": 88,
+            "DRI": 50,
+            "SHO": 98,
+            "DEF": 76,
+            "PAS": 69,
+            "PHY": 90
+        },
+        "average": 78.5
+    },
+    {
+        "id": 316,
+        "name": "Betty Reece",
+        "position": "RWM",
+        "teamName": "Tottenham Hotspur",
+        "attributes": {
+            "PAC": 81,
+            "DRI": 84,
+            "SHO": 92,
+            "DEF": 50,
+            "PAS": 60,
+            "PHY": 54
+        },
+        "average": 70.2
+    },
+    {
+        "id": 317,
+        "name": "Kathy Crowder",
+        "position": "LCM",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 58,
+            "DRI": 87,
+            "SHO": 83,
+            "DEF": 64,
+            "PAS": 88,
+            "PHY": 65
+        },
+        "average": 74.2
+    },
+    {
+        "id": 318,
+        "name": "Richard Dahlberg",
+        "position": "RCB",
+        "teamName": "Bournemouth",
+        "attributes": {
+            "PAC": 81,
+            "DRI": 99,
+            "SHO": 82,
+            "DEF": 81,
+            "PAS": 76,
+            "PHY": 87
+        },
+        "average": 84.3
+    },
+    {
+        "id": 319,
+        "name": "Jeremy Marzett",
+        "position": "RWB",
+        "teamName": "West Ham United",
+        "attributes": {
+            "PAC": 90,
+            "DRI": 80,
+            "SHO": 59,
+            "DEF": 72,
+            "PAS": 94,
+            "PHY": 74
+        },
+        "average": 78.2
+    },
+    {
+        "id": 320,
+        "name": "Janice Underwood",
+        "position": "CF",
+        "teamName": "Chelsea",
+        "attributes": {
+            "PAC": 75,
+            "DRI": 65,
+            "SHO": 71,
+            "DEF": 78,
+            "PAS": 96,
+            "PHY": 88
+        },
+        "average": 78.8
+    },
+    {
+        "id": 321,
+        "name": "Laura Park",
+        "position": "CAM",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 83,
+            "DRI": 70,
+            "SHO": 87,
+            "DEF": 95,
+            "PAS": 98,
+            "PHY": 68
+        },
+        "average": 83.5
+    },
+    {
+        "id": 322,
+        "name": "Myrtle Boston",
+        "position": "LF",
+        "teamName": "West Ham United",
+        "attributes": {
+            "PAC": 60,
+            "DRI": 86,
+            "SHO": 88,
+            "DEF": 74,
+            "PAS": 54,
+            "PHY": 60
+        },
+        "average": 70.3
+    },
+    {
+        "id": 323,
+        "name": "Esther Adelson",
+        "position": "GK",
+        "teamName": "Aston Villa",
+        "attributes": {
+            "PAC": 81,
+            "DRI": 55,
+            "SHO": 80,
+            "DEF": 91,
+            "PAS": 98,
+            "PHY": 81
+        },
+        "average": 81.0
+    },
+    {
+        "id": 324,
+        "name": "Cassandra Schwartzkopf",
+        "position": "LF",
+        "teamName": "Luton Town",
+        "attributes": {
+            "PAC": 89,
+            "DRI": 56,
+            "SHO": 81,
+            "DEF": 92,
+            "PAS": 59,
+            "PHY": 81
+        },
+        "average": 76.3
+    },
+    {
+        "id": 325,
+        "name": "Kathleen Beer",
+        "position": "LWB",
+        "teamName": "Everton",
+        "attributes": {
+            "PAC": 52,
+            "DRI": 99,
+            "SHO": 76,
+            "DEF": 85,
+            "PAS": 96,
+            "PHY": 94
+        },
+        "average": 83.7
+    },
+    {
+        "id": 326,
+        "name": "Alexis Ames",
+        "position": "CF",
+        "teamName": "Everton",
+        "attributes": {
+            "PAC": 73,
+            "DRI": 83,
+            "SHO": 82,
+            "DEF": 62,
+            "PAS": 65,
+            "PHY": 58
+        },
+        "average": 70.5
+    },
+    {
+        "id": 327,
+        "name": "Trisha Freeman",
+        "position": "RCDM",
+        "teamName": "Aston Villa",
+        "attributes": {
+            "PAC": 85,
+            "DRI": 52,
+            "SHO": 59,
+            "DEF": 94,
+            "PAS": 55,
+            "PHY": 66
+        },
+        "average": 68.5
+    },
+    {
+        "id": 328,
+        "name": "Edgar Marquardt",
+        "position": "LCB",
+        "teamName": "Crystal Palace",
+        "attributes": {
+            "PAC": 80,
+            "DRI": 98,
+            "SHO": 84,
+            "DEF": 55,
+            "PAS": 76,
+            "PHY": 52
+        },
+        "average": 74.2
+    },
+    {
+        "id": 329,
+        "name": "Charles Myers",
+        "position": "LCB",
+        "teamName": "Wolverhampton Wanderers",
+        "attributes": {
+            "PAC": 73,
+            "DRI": 80,
+            "SHO": 63,
+            "DEF": 84,
+            "PAS": 99,
+            "PHY": 59
+        },
+        "average": 76.3
+    },
+    {
+        "id": 330,
+        "name": "Paul Cooper",
+        "position": "CB",
+        "teamName": "Brentford",
+        "attributes": {
+            "PAC": 82,
+            "DRI": 86,
+            "SHO": 60,
+            "DEF": 54,
+            "PAS": 71,
+            "PHY": 88
+        },
+        "average": 73.5
+    },
+    {
+        "id": 331,
+        "name": "Joseph Ficklin",
+        "position": "RF",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 51,
+            "DRI": 79,
+            "SHO": 77,
+            "DEF": 70,
+            "PAS": 83,
+            "PHY": 94
+        },
+        "average": 75.7
+    },
+    {
+        "id": 332,
+        "name": "Carolee Blankenship",
+        "position": "LCDM",
+        "teamName": "Luton Town",
+        "attributes": {
+            "PAC": 78,
+            "DRI": 63,
+            "SHO": 93,
+            "DEF": 63,
+            "PAS": 54,
+            "PHY": 86
+        },
+        "average": 72.8
+    },
+    {
+        "id": 333,
+        "name": "Teresa Song",
+        "position": "CB",
+        "teamName": "Burnley",
+        "attributes": {
+            "PAC": 90,
+            "DRI": 91,
+            "SHO": 64,
+            "DEF": 73,
+            "PAS": 68,
+            "PHY": 84
+        },
+        "average": 78.3
+    },
+    {
+        "id": 334,
+        "name": "Nicole Jobst",
+        "position": "RM",
+        "teamName": "Wolverhampton Wanderers",
+        "attributes": {
+            "PAC": 80,
+            "DRI": 63,
+            "SHO": 76,
+            "DEF": 68,
+            "PAS": 78,
+            "PHY": 64
+        },
+        "average": 71.5
+    },
+    {
+        "id": 335,
+        "name": "Gwen Torres",
+        "position": "CAM",
+        "teamName": "Newcastle United",
+        "attributes": {
+            "PAC": 69,
+            "DRI": 67,
+            "SHO": 82,
+            "DEF": 67,
+            "PAS": 55,
+            "PHY": 66
+        },
+        "average": 67.7
+    },
+    {
+        "id": 336,
+        "name": "Mary Daniels",
+        "position": "CAM",
+        "teamName": "Fulham",
+        "attributes": {
+            "PAC": 68,
+            "DRI": 77,
+            "SHO": 72,
+            "DEF": 76,
+            "PAS": 56,
+            "PHY": 73
+        },
+        "average": 70.3
+    },
+    {
+        "id": 337,
+        "name": "Stephanie Kocher",
+        "position": "RB",
+        "teamName": "Brentford",
+        "attributes": {
+            "PAC": 63,
+            "DRI": 63,
+            "SHO": 80,
+            "DEF": 51,
+            "PAS": 78,
+            "PHY": 78
+        },
+        "average": 68.8
+    },
+    {
+        "id": 338,
+        "name": "Heather Mcburney",
+        "position": "RCDM",
+        "teamName": "Luton Town",
+        "attributes": {
+            "PAC": 64,
+            "DRI": 90,
+            "SHO": 66,
+            "DEF": 66,
+            "PAS": 70,
+            "PHY": 65
+        },
+        "average": 70.2
+    },
+    {
+        "id": 339,
+        "name": "Roy Dulin",
+        "position": "LWM",
+        "teamName": "Newcastle United",
+        "attributes": {
+            "PAC": 90,
+            "DRI": 95,
+            "SHO": 74,
+            "DEF": 67,
+            "PAS": 83,
+            "PHY": 59
+        },
+        "average": 78.0
+    },
+    {
+        "id": 340,
+        "name": "Janet Gutierrez",
+        "position": "ST",
+        "teamName": "Bournemouth",
+        "attributes": {
+            "PAC": 87,
+            "DRI": 76,
+            "SHO": 78,
+            "DEF": 77,
+            "PAS": 95,
+            "PHY": 55
+        },
+        "average": 78.0
+    },
+    {
+        "id": 341,
+        "name": "Danny Morrell",
+        "position": "RWM",
+        "teamName": "Brentford",
+        "attributes": {
+            "PAC": 92,
+            "DRI": 83,
+            "SHO": 52,
+            "DEF": 70,
+            "PAS": 50,
+            "PHY": 61
+        },
+        "average": 68.0
+    },
+    {
+        "id": 342,
+        "name": "Henry Porter",
+        "position": "RCB",
+        "teamName": "Fulham",
+        "attributes": {
+            "PAC": 85,
+            "DRI": 97,
+            "SHO": 58,
+            "DEF": 66,
+            "PAS": 58,
+            "PHY": 64
+        },
+        "average": 71.3
+    },
+    {
+        "id": 343,
+        "name": "Laquita Berry",
+        "position": "CDM",
+        "teamName": "Wolverhampton Wanderers",
+        "attributes": {
+            "PAC": 52,
+            "DRI": 63,
+            "SHO": 72,
+            "DEF": 66,
+            "PAS": 73,
+            "PHY": 77
+        },
+        "average": 67.2
+    },
+    {
+        "id": 344,
+        "name": "Andre Ronn",
+        "position": "RCM",
+        "teamName": "Wolverhampton Wanderers",
+        "attributes": {
+            "PAC": 80,
+            "DRI": 86,
+            "SHO": 71,
+            "DEF": 86,
+            "PAS": 51,
+            "PHY": 85
+        },
+        "average": 76.5
+    },
+    {
+        "id": 345,
+        "name": "Beverly Abrams",
+        "position": "RB",
+        "teamName": "Sheffield United",
+        "attributes": {
+            "PAC": 51,
+            "DRI": 65,
+            "SHO": 81,
+            "DEF": 92,
+            "PAS": 86,
+            "PHY": 66
+        },
+        "average": 73.5
+    },
+    {
+        "id": 346,
+        "name": "Marilyn Smith",
+        "position": "CDM",
+        "teamName": "Manchester United",
+        "attributes": {
+            "PAC": 72,
+            "DRI": 90,
+            "SHO": 84,
+            "DEF": 55,
+            "PAS": 89,
+            "PHY": 51
+        },
+        "average": 73.5
+    },
+    {
+        "id": 347,
+        "name": "Harry Delossantos",
+        "position": "LWB",
+        "teamName": "Brighton & Hove Albion",
+        "attributes": {
+            "PAC": 52,
+            "DRI": 85,
+            "SHO": 85,
+            "DEF": 59,
+            "PAS": 97,
+            "PHY": 67
+        },
+        "average": 74.2
+    },
+    {
+        "id": 348,
+        "name": "Mary Rodriguez",
+        "position": "LWM",
+        "teamName": "Tottenham Hotspur",
+        "attributes": {
+            "PAC": 77,
+            "DRI": 98,
+            "SHO": 73,
+            "DEF": 71,
+            "PAS": 88,
+            "PHY": 73
+        },
+        "average": 80.0
+    },
+    {
+        "id": 349,
+        "name": "Joseph Simpson",
+        "position": "LWB",
+        "teamName": "Crystal Palace",
+        "attributes": {
+            "PAC": 76,
+            "DRI": 69,
+            "SHO": 51,
+            "DEF": 68,
+            "PAS": 85,
+            "PHY": 75
+        },
+        "average": 70.7
+    },
+    {
+        "id": 350,
+        "name": "Kenny Bronson",
+        "position": "ST",
+        "teamName": "Brentford",
+        "attributes": {
+            "PAC": 65,
+            "DRI": 58,
+            "SHO": 54,
+            "DEF": 60,
+            "PAS": 79,
+            "PHY": 51
+        },
+        "average": 61.2
+    },
+    {
+        "id": 351,
+        "name": "Grady Maes",
+        "position": "RB",
+        "teamName": "Sheffield United",
+        "attributes": {
+            "PAC": 75,
+            "DRI": 52,
+            "SHO": 73,
+            "DEF": 59,
+            "PAS": 51,
+            "PHY": 88
+        },
+        "average": 66.3
+    },
+    {
+        "id": 352,
+        "name": "Sherry Wallace",
+        "position": "RB",
+        "teamName": "Chelsea",
+        "attributes": {
+            "PAC": 77,
+            "DRI": 78,
+            "SHO": 52,
+            "DEF": 57,
+            "PAS": 91,
+            "PHY": 96
+        },
+        "average": 75.2
+    },
+    {
+        "id": 353,
+        "name": "John Rathbone",
+        "position": "LCB",
+        "teamName": "Manchester United",
+        "attributes": {
+            "PAC": 68,
+            "DRI": 75,
+            "SHO": 78,
+            "DEF": 84,
+            "PAS": 82,
+            "PHY": 58
+        },
+        "average": 74.2
+    },
+    {
+        "id": 354,
+        "name": "Howard Mendoza",
+        "position": "LM",
+        "teamName": "Brentford",
+        "attributes": {
+            "PAC": 72,
+            "DRI": 82,
+            "SHO": 84,
+            "DEF": 65,
+            "PAS": 78,
+            "PHY": 78
+        },
+        "average": 76.5
+    },
+    {
+        "id": 355,
+        "name": "Amber Regan",
+        "position": "RCB",
+        "teamName": "Burnley",
+        "attributes": {
+            "PAC": 57,
+            "DRI": 54,
+            "SHO": 97,
+            "DEF": 68,
+            "PAS": 66,
+            "PHY": 76
+        },
+        "average": 69.7
+    },
+    {
+        "id": 356,
+        "name": "Sheryl Regan",
+        "position": "CDM",
+        "teamName": "Burnley",
+        "attributes": {
+            "PAC": 57,
+            "DRI": 81,
+            "SHO": 85,
+            "DEF": 93,
+            "PAS": 72,
+            "PHY": 99
+        },
+        "average": 81.2
+    },
+    {
+        "id": 357,
+        "name": "Jennifer Arteaga",
+        "position": "LCM",
+        "teamName": "Tottenham Hotspur",
+        "attributes": {
+            "PAC": 78,
+            "DRI": 60,
+            "SHO": 91,
+            "DEF": 76,
+            "PAS": 65,
+            "PHY": 77
+        },
+        "average": 74.5
+    },
+    {
+        "id": 358,
+        "name": "Darlene Mink",
+        "position": "LCDM",
+        "teamName": "Manchester City",
+        "attributes": {
+            "PAC": 56,
+            "DRI": 66,
+            "SHO": 53,
+            "DEF": 65,
+            "PAS": 52,
+            "PHY": 98
+        },
+        "average": 65.0
+    },
+    {
+        "id": 359,
+        "name": "Ryan Hunsinger",
+        "position": "RCM",
+        "teamName": "Tottenham Hotspur",
+        "attributes": {
+            "PAC": 74,
+            "DRI": 78,
+            "SHO": 64,
+            "DEF": 59,
+            "PAS": 94,
+            "PHY": 67
+        },
+        "average": 72.7
+    },
+    {
+        "id": 360,
+        "name": "Bruce Daniels",
+        "position": "CM",
+        "teamName": "Fulham",
+        "attributes": {
+            "PAC": 54,
+            "DRI": 67,
+            "SHO": 74,
+            "DEF": 52,
+            "PAS": 56,
+            "PHY": 53
+        },
+        "average": 59.3
+    },
+    {
+        "id": 361,
+        "name": "Ronnie Firestine",
+        "position": "SF",
+        "teamName": "Chelsea",
+        "attributes": {
+            "PAC": 76,
+            "DRI": 67,
+            "SHO": 99,
+            "DEF": 64,
+            "PAS": 53,
+            "PHY": 84
+        },
+        "average": 73.8
+    },
+    {
+        "id": 362,
+        "name": "Timothy Semien",
+        "position": "RCB",
+        "teamName": "Brighton & Hove Albion",
+        "attributes": {
+            "PAC": 61,
+            "DRI": 83,
+            "SHO": 50,
+            "DEF": 61,
+            "PAS": 73,
+            "PHY": 72
+        },
+        "average": 66.7
+    },
+    {
+        "id": 363,
+        "name": "Cody Smith",
+        "position": "GK",
+        "teamName": "Newcastle United",
+        "attributes": {
+            "PAC": 91,
+            "DRI": 82,
+            "SHO": 94,
+            "DEF": 79,
+            "PAS": 60,
+            "PHY": 77
+        },
+        "average": 80.5
+    },
+    {
+        "id": 364,
+        "name": "Brian Marrara",
+        "position": "LCDM",
+        "teamName": "Bournemouth",
+        "attributes": {
+            "PAC": 54,
+            "DRI": 91,
+            "SHO": 87,
+            "DEF": 90,
+            "PAS": 65,
+            "PHY": 71
+        },
+        "average": 76.3
+    },
+    {
+        "id": 365,
+        "name": "Christine Burroughs",
+        "position": "SF",
+        "teamName": "Fulham",
+        "attributes": {
+            "PAC": 57,
+            "DRI": 73,
+            "SHO": 52,
+            "DEF": 98,
+            "PAS": 82,
+            "PHY": 94
+        },
+        "average": 76.0
+    },
+    {
+        "id": 366,
+        "name": "John Adams",
+        "position": "CDM",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 95,
+            "DRI": 73,
+            "SHO": 66,
+            "DEF": 67,
+            "PAS": 71,
+            "PHY": 50
+        },
+        "average": 70.3
+    },
+    {
+        "id": 367,
+        "name": "James Peacock",
+        "position": "RF",
+        "teamName": "Sheffield United",
+        "attributes": {
+            "PAC": 86,
+            "DRI": 65,
+            "SHO": 89,
+            "DEF": 81,
+            "PAS": 67,
+            "PHY": 52
+        },
+        "average": 73.3
+    },
+    {
+        "id": 368,
+        "name": "Chad Schroer",
+        "position": "RWB",
+        "teamName": "Burnley",
+        "attributes": {
+            "PAC": 54,
+            "DRI": 96,
+            "SHO": 96,
+            "DEF": 93,
+            "PAS": 77,
+            "PHY": 61
+        },
+        "average": 79.5
+    },
+    {
+        "id": 369,
+        "name": "Zachary Thomas",
+        "position": "SF",
+        "teamName": "Brighton & Hove Albion",
+        "attributes": {
+            "PAC": 63,
+            "DRI": 80,
+            "SHO": 57,
+            "DEF": 51,
+            "PAS": 82,
+            "PHY": 53
+        },
+        "average": 64.3
+    },
+    {
+        "id": 370,
+        "name": "Louie Mccray",
+        "position": "LF",
+        "teamName": "Chelsea",
+        "attributes": {
+            "PAC": 92,
+            "DRI": 94,
+            "SHO": 61,
+            "DEF": 72,
+            "PAS": 63,
+            "PHY": 55
+        },
+        "average": 72.8
+    },
+    {
+        "id": 371,
+        "name": "Perry Cullum",
+        "position": "SF",
+        "teamName": "Aston Villa",
+        "attributes": {
+            "PAC": 69,
+            "DRI": 95,
+            "SHO": 63,
+            "DEF": 62,
+            "PAS": 72,
+            "PHY": 55
+        },
+        "average": 69.3
+    },
+    {
+        "id": 372,
+        "name": "Donald Early",
+        "position": "LF",
+        "teamName": "Arsenal",
+        "attributes": {
+            "PAC": 95,
+            "DRI": 84,
+            "SHO": 92,
+            "DEF": 95,
+            "PAS": 51,
+            "PHY": 84
+        },
+        "average": 83.5
+    },
+    {
+        "id": 373,
+        "name": "Lindsey Smith",
+        "position": "RWB",
+        "teamName": "Burnley",
+        "attributes": {
+            "PAC": 50,
+            "DRI": 84,
+            "SHO": 78,
+            "DEF": 80,
+            "PAS": 74,
+            "PHY": 62
+        },
+        "average": 71.3
+    },
+    {
+        "id": 374,
+        "name": "Michelle Kimbrell",
+        "position": "LB",
+        "teamName": "Chelsea",
+        "attributes": {
+            "PAC": 70,
+            "DRI": 79,
+            "SHO": 93,
+            "DEF": 89,
+            "PAS": 55,
+            "PHY": 68
+        },
+        "average": 75.7
+    },
+    {
+        "id": 375,
+        "name": "James Young",
+        "position": "RF",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 54,
+            "DRI": 73,
+            "SHO": 87,
+            "DEF": 90,
+            "PAS": 83,
+            "PHY": 70
+        },
+        "average": 76.2
+    },
+    {
+        "id": 376,
+        "name": "Bryan Crum",
+        "position": "CDM",
+        "teamName": "Brighton & Hove Albion",
+        "attributes": {
+            "PAC": 84,
+            "DRI": 65,
+            "SHO": 72,
+            "DEF": 83,
+            "PAS": 89,
+            "PHY": 77
+        },
+        "average": 78.3
+    },
+    {
+        "id": 377,
+        "name": "Bruce Reinhart",
+        "position": "LF",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 88,
+            "DRI": 57,
+            "SHO": 63,
+            "DEF": 75,
+            "PAS": 91,
+            "PHY": 82
+        },
+        "average": 76.0
+    },
+    {
+        "id": 378,
+        "name": "William Washington",
+        "position": "LF",
+        "teamName": "Arsenal",
+        "attributes": {
+            "PAC": 64,
+            "DRI": 54,
+            "SHO": 61,
+            "DEF": 81,
+            "PAS": 98,
+            "PHY": 89
+        },
+        "average": 74.5
+    },
+    {
+        "id": 379,
+        "name": "Alan Miles",
+        "position": "SF",
+        "teamName": "Luton Town",
+        "attributes": {
+            "PAC": 71,
+            "DRI": 73,
+            "SHO": 96,
+            "DEF": 57,
+            "PAS": 55,
+            "PHY": 90
+        },
+        "average": 73.7
+    },
+    {
+        "id": 380,
+        "name": "Rick Hawkins",
+        "position": "CM",
+        "teamName": "Manchester City",
+        "attributes": {
+            "PAC": 85,
+            "DRI": 96,
+            "SHO": 96,
+            "DEF": 89,
+            "PAS": 66,
+            "PHY": 74
+        },
+        "average": 84.3
+    },
+    {
+        "id": 381,
+        "name": "Mohamed Grimes",
+        "position": "LCB",
+        "teamName": "Crystal Palace",
+        "attributes": {
+            "PAC": 89,
+            "DRI": 98,
+            "SHO": 61,
+            "DEF": 53,
+            "PAS": 80,
+            "PHY": 62
+        },
+        "average": 73.8
+    },
+    {
+        "id": 382,
+        "name": "Isabel Pena",
+        "position": "LWB",
+        "teamName": "Luton Town",
+        "attributes": {
+            "PAC": 56,
+            "DRI": 92,
+            "SHO": 94,
+            "DEF": 82,
+            "PAS": 55,
+            "PHY": 98
+        },
+        "average": 79.5
+    },
+    {
+        "id": 383,
+        "name": "John Bloomer",
+        "position": "LCB",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 92,
+            "DRI": 78,
+            "SHO": 65,
+            "DEF": 90,
+            "PAS": 74,
+            "PHY": 96
+        },
+        "average": 82.5
+    },
+    {
+        "id": 384,
+        "name": "Johnny Sanchez",
+        "position": "LM",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 90,
+            "DRI": 86,
+            "SHO": 65,
+            "DEF": 57,
+            "PAS": 81,
+            "PHY": 60
+        },
+        "average": 73.2
+    },
+    {
+        "id": 385,
+        "name": "Lori Jackson",
+        "position": "CDM",
+        "teamName": "Tottenham Hotspur",
+        "attributes": {
+            "PAC": 80,
+            "DRI": 61,
+            "SHO": 70,
+            "DEF": 69,
+            "PAS": 91,
+            "PHY": 55
+        },
+        "average": 71.0
+    },
+    {
+        "id": 386,
+        "name": "Jesse Anderson",
+        "position": "CB",
+        "teamName": "Newcastle United",
+        "attributes": {
+            "PAC": 54,
+            "DRI": 82,
+            "SHO": 94,
+            "DEF": 99,
+            "PAS": 93,
+            "PHY": 88
+        },
+        "average": 85.0
+    },
+    {
+        "id": 387,
+        "name": "Peter Hall",
+        "position": "LF",
+        "teamName": "Newcastle United",
+        "attributes": {
+            "PAC": 65,
+            "DRI": 94,
+            "SHO": 61,
+            "DEF": 93,
+            "PAS": 76,
+            "PHY": 60
+        },
+        "average": 74.8
+    },
+    {
+        "id": 388,
+        "name": "Joan Fredrickson",
+        "position": "RF",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 85,
+            "DRI": 50,
+            "SHO": 61,
+            "DEF": 86,
+            "PAS": 94,
+            "PHY": 79
+        },
+        "average": 75.8
+    },
+    {
+        "id": 389,
+        "name": "Willie Clark",
+        "position": "GK",
+        "teamName": "Brentford",
+        "attributes": {
+            "PAC": 96,
+            "DRI": 74,
+            "SHO": 80,
+            "DEF": 74,
+            "PAS": 78,
+            "PHY": 88
+        },
+        "average": 81.7
+    },
+    {
+        "id": 390,
+        "name": "Pamela Velasco",
+        "position": "RCB",
+        "teamName": "Fulham",
+        "attributes": {
+            "PAC": 98,
+            "DRI": 70,
+            "SHO": 65,
+            "DEF": 63,
+            "PAS": 58,
+            "PHY": 63
+        },
+        "average": 69.5
+    },
+    {
+        "id": 391,
+        "name": "Tammie Gibson",
+        "position": "RCB",
+        "teamName": "Aston Villa",
+        "attributes": {
+            "PAC": 81,
+            "DRI": 73,
+            "SHO": 58,
+            "DEF": 92,
+            "PAS": 60,
+            "PHY": 79
+        },
+        "average": 73.8
+    },
+    {
+        "id": 392,
+        "name": "Mercedes Crosson",
+        "position": "LCM",
+        "teamName": "Liverpool",
+        "attributes": {
+            "PAC": 78,
+            "DRI": 85,
+            "SHO": 85,
+            "DEF": 90,
+            "PAS": 52,
+            "PHY": 65
+        },
+        "average": 75.8
+    },
+    {
+        "id": 393,
+        "name": "Frank Villarreal",
+        "position": "RCDM",
+        "teamName": "Aston Villa",
+        "attributes": {
+            "PAC": 81,
+            "DRI": 99,
+            "SHO": 57,
+            "DEF": 52,
+            "PAS": 70,
+            "PHY": 51
+        },
+        "average": 68.3
+    },
+    {
+        "id": 394,
+        "name": "Rebecca Brewer",
+        "position": "RB",
+        "teamName": "Everton",
+        "attributes": {
+            "PAC": 94,
+            "DRI": 85,
+            "SHO": 89,
+            "DEF": 82,
+            "PAS": 62,
+            "PHY": 51
+        },
+        "average": 77.2
+    },
+    {
+        "id": 395,
+        "name": "Sarah Redfox",
+        "position": "RM",
+        "teamName": "Everton",
+        "attributes": {
+            "PAC": 67,
+            "DRI": 84,
+            "SHO": 61,
+            "DEF": 82,
+            "PAS": 70,
+            "PHY": 89
+        },
+        "average": 75.5
+    },
+    {
+        "id": 396,
+        "name": "Byron Grant",
+        "position": "RB",
+        "teamName": "Fulham",
+        "attributes": {
+            "PAC": 54,
+            "DRI": 61,
+            "SHO": 74,
+            "DEF": 99,
+            "PAS": 50,
+            "PHY": 96
+        },
+        "average": 72.3
+    },
+    {
+        "id": 397,
+        "name": "Heather Bollinger",
+        "position": "LWM",
+        "teamName": "Aston Villa",
+        "attributes": {
+            "PAC": 72,
+            "DRI": 95,
+            "SHO": 72,
+            "DEF": 95,
+            "PAS": 64,
+            "PHY": 80
+        },
+        "average": 79.7
+    },
+    {
+        "id": 398,
+        "name": "Kathleen Taylor",
+        "position": "LM",
+        "teamName": "Manchester City",
+        "attributes": {
+            "PAC": 62,
+            "DRI": 85,
+            "SHO": 79,
+            "DEF": 50,
+            "PAS": 76,
+            "PHY": 89
+        },
+        "average": 73.5
+    },
+    {
+        "id": 399,
+        "name": "Roberta Scott",
+        "position": "RF",
+        "teamName": "Brentford",
+        "attributes": {
+            "PAC": 96,
+            "DRI": 53,
+            "SHO": 78,
+            "DEF": 71,
+            "PAS": 54,
+            "PHY": 57
+        },
+        "average": 68.2
+    }
+]
